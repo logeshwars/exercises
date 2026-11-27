@@ -1,0 +1,19 @@
+{
+  "name": "Clamshell",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your side with knees bent and feet together.",
+    "Keep your feet touching and lift your top knee as far as you can without rolling back.",
+    "Lower slowly and switch sides after the set."
+  ],
+  "category": "strength"
+}

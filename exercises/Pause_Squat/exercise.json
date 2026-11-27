@@ -1,0 +1,20 @@
+{
+  "name": "Pause Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set up with the barbell on your upper back.",
+    "Squat down and pause in the bottom position for two to three seconds without relaxing.",
+    "Drive back up to standing."
+  ],
+  "category": "powerlifting"
+}

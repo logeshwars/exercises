@@ -1,0 +1,21 @@
+{
+  "name": "Sprint Interval",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "glutes",
+    "calves"
+  ],
+  "instructions": [
+    "Warm up with easy jogging.",
+    "Sprint hard for the work interval.",
+    "Walk or jog to recover, then repeat."
+  ],
+  "category": "cardio"
+}

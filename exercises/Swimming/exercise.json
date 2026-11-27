@@ -1,0 +1,21 @@
+{
+  "name": "Swimming",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Warm up with a few easy lengths.",
+    "Swim at a steady pace using your chosen stroke.",
+    "Rest at the wall as needed."
+  ],
+  "category": "cardio"
+}

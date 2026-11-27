@@ -1,0 +1,19 @@
+{
+  "name": "Cable Glute Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Attach an ankle cuff to a low cable and face the machine.",
+    "Hold the frame and kick the working leg straight back, squeezing your glute.",
+    "Return slowly and switch legs after the set."
+  ],
+  "category": "strength"
+}

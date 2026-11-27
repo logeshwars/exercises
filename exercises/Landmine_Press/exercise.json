@@ -1,0 +1,20 @@
+{
+  "name": "Landmine Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Stand facing the end of a landmine bar and hold it at your shoulder.",
+    "Press the bar up and forward until your arm is straight.",
+    "Lower slowly to your shoulder."
+  ],
+  "category": "strength"
+}

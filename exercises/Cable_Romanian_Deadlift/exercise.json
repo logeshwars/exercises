@@ -1,0 +1,20 @@
+{
+  "name": "Cable Romanian Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Stand facing a low cable holding a straight bar or rope.",
+    "Hinge at the hips with a flat back and soft knees until you feel a stretch in your hamstrings.",
+    "Drive your hips forward to stand tall."
+  ],
+  "category": "strength"
+}

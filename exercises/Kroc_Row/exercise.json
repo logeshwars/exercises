@@ -1,0 +1,21 @@
+{
+  "name": "Kroc Row",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Brace one hand on a bench and hold a heavy dumbbell in the other.",
+    "Row the dumbbell to your hip with a little body English for high reps.",
+    "Lower to a full stretch and repeat, then switch sides."
+  ],
+  "category": "strength"
+}

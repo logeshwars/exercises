@@ -1,0 +1,21 @@
+{
+  "name": "Meadows Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Stand side-on to a landmine bar in a staggered stance and grip the end of the bar overhand.",
+    "Row it up towards your hip, driving the elbow back.",
+    "Lower to a full stretch, then switch sides."
+  ],
+  "category": "strength"
+}

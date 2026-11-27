@@ -1,0 +1,17 @@
+{
+  "name": "Single-Leg Calf Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand on one foot on a step, holding a wall for balance.",
+    "Lower your heel below the step.",
+    "Rise up as high as you can, then switch legs after the set."
+  ],
+  "category": "strength"
+}

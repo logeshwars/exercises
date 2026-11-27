@@ -1,0 +1,20 @@
+{
+  "name": "Pike Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "chest"
+  ],
+  "instructions": [
+    "Start in a push-up and walk your feet in so your hips are high.",
+    "Bend your elbows to lower the top of your head towards the floor.",
+    "Press back up to straight arms."
+  ],
+  "category": "strength"
+}

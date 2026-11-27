@@ -1,0 +1,20 @@
+{
+  "name": "Weighted Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place a weight plate on your upper back or wear a vest.",
+    "Lower your chest to the floor.",
+    "Press back up."
+  ],
+  "category": "strength"
+}

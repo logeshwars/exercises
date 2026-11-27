@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Lateral Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes"
+  ],
+  "instructions": [
+    "Hold a dumbbell at your chest.",
+    "Step wide to one side and sit back into that hip.",
+    "Push back to the start and alternate sides."
+  ],
+  "category": "strength"
+}

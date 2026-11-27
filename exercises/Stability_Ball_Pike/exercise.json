@@ -1,0 +1,19 @@
+{
+  "name": "Stability Ball Pike",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Get into a push-up position with your shins on a stability ball.",
+    "Lift your hips high, rolling the ball towards your hands.",
+    "Lower back to the push-up position."
+  ],
+  "category": "strength"
+}

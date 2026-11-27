@@ -1,0 +1,17 @@
+{
+  "name": "Band Finger Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Loop a band around your fingers.",
+    "Spread your fingers open.",
+    "Close slowly."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Landmine Romanian Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the bar end with both hands.",
+    "Hinge back.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

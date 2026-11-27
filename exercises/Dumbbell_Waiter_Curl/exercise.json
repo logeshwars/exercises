@@ -1,0 +1,17 @@
+{
+  "name": "Dumbbell Waiter Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold one dumbbell vertically with both hands.",
+    "Curl it up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

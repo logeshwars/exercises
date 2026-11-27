@@ -1,0 +1,20 @@
+{
+  "name": "TRX Atomic Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "instructions": [
+    "Feet in the straps.",
+    "Do a push-up, then tuck your knees.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

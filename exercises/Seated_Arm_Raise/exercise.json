@@ -1,0 +1,17 @@
+{
+  "name": "Seated Arm Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit tall.",
+    "Raise your arms overhead.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

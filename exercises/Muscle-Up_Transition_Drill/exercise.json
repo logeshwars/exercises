@@ -1,0 +1,20 @@
+{
+  "name": "Muscle-Up Transition Drill",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "chest"
+  ],
+  "instructions": [
+    "Use a low bar or bands.",
+    "Practise rolling over the bar from pull to dip.",
+    "Repeat slowly."
+  ],
+  "category": "strength"
+}

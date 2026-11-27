@@ -1,0 +1,19 @@
+{
+  "name": "Cable Hip Abduction Standing",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Attach a cuff to your outer ankle from a low cable.",
+    "Lift your leg out to the side.",
+    "Return slowly and switch legs."
+  ],
+  "category": "strength"
+}

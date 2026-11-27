@@ -1,0 +1,20 @@
+{
+  "name": "Stability Ball Rollout",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Kneel with your forearms on a stability ball.",
+    "Roll the ball forward, extending your body.",
+    "Pull it back using your abs."
+  ],
+  "category": "strength"
+}

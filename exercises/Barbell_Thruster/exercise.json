@@ -1,0 +1,21 @@
+{
+  "name": "Barbell Thruster",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes",
+    "triceps"
+  ],
+  "instructions": [
+    "Hold the bar in the front rack position.",
+    "Squat down.",
+    "Drive up and press the bar overhead."
+  ],
+  "category": "olympic weightlifting"
+}

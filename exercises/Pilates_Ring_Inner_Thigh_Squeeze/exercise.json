@@ -1,0 +1,17 @@
+{
+  "name": "Pilates Ring Inner Thigh Squeeze",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a Pilates ring between your ankles or knees.",
+    "Squeeze it.",
+    "Release slowly."
+  ],
+  "category": "strength"
+}

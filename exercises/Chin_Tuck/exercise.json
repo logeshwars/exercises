@@ -1,0 +1,17 @@
+{
+  "name": "Chin Tuck",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit or stand tall.",
+    "Draw your chin straight back.",
+    "Hold, then release."
+  ],
+  "category": "strength"
+}

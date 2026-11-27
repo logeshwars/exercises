@@ -1,0 +1,20 @@
+{
+  "name": "Assisted Pistol Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold a doorframe or post and stand on one leg.",
+    "Squat down on that leg, using your hands only as much as needed.",
+    "Stand back up and repeat, then switch legs."
+  ],
+  "category": "strength"
+}

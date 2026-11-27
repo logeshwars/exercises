@@ -1,0 +1,17 @@
+{
+  "name": "Ankle Alphabet",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lift your foot.",
+    "Draw the alphabet with your toes.",
+    "Switch feet."
+  ],
+  "category": "stretching"
+}

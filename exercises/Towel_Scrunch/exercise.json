@@ -1,0 +1,17 @@
+{
+  "name": "Towel Scrunch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Put a towel under your foot.",
+    "Scrunch it towards you with your toes.",
+    "Release."
+  ],
+  "category": "strength"
+}

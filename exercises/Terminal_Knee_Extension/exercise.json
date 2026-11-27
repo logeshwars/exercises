@@ -1,0 +1,17 @@
+{
+  "name": "Terminal Knee Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Loop a band behind your knee.",
+    "Straighten your knee against the band.",
+    "Release slowly."
+  ],
+  "category": "strength"
+}

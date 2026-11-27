@@ -1,0 +1,15 @@
+{
+  "name": "Wrist Stretch",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold one arm out with the palm up.",
+    "Use the other hand to gently pull your fingers back.",
+    "Hold, then stretch the other side."
+  ],
+  "category": "stretching"
+}

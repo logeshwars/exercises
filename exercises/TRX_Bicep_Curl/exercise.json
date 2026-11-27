@@ -1,0 +1,17 @@
+{
+  "name": "TRX Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lean back holding the straps.",
+    "Curl towards your forehead.",
+    "Return."
+  ],
+  "category": "strength"
+}

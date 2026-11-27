@@ -1,0 +1,17 @@
+{
+  "name": "Cable Drag Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a low cable bar.",
+    "Curl it up, dragging it along your body with elbows moving back.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

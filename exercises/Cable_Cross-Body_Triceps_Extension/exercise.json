@@ -1,0 +1,17 @@
+{
+  "name": "Cable Cross-Body Triceps Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Set a cable high and hold the handle with the opposite hand.",
+    "Extend your arm across and down.",
+    "Return slowly and switch sides."
+  ],
+  "category": "strength"
+}

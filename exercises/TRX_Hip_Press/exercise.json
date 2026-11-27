@@ -1,0 +1,19 @@
+{
+  "name": "TRX Hip Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Put your heels in the straps.",
+    "Press your hips up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

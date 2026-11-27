@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Overhead Carry",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "traps"
+  ],
+  "instructions": [
+    "Press a dumbbell overhead and lock out your arm.",
+    "Walk while keeping it stacked over your shoulder.",
+    "Switch arms."
+  ],
+  "category": "strength"
+}

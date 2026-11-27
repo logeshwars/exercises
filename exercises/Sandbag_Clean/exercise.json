@@ -1,0 +1,21 @@
+{
+  "name": "Sandbag Clean",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "traps",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Lift the sandbag from the floor.",
+    "Pull it to your chest.",
+    "Lower."
+  ],
+  "category": "strongman"
+}

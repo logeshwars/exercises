@@ -1,0 +1,17 @@
+{
+  "name": "Seated Leg Extension Bodyweight",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit tall in a chair.",
+    "Straighten one knee.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

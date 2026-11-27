@@ -1,0 +1,20 @@
+{
+  "name": "Paused Barbell Bench Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lower the bar to your chest.",
+    "Pause for one to two seconds without bouncing.",
+    "Press back up."
+  ],
+  "category": "powerlifting"
+}

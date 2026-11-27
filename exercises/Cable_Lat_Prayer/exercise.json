@@ -1,0 +1,19 @@
+{
+  "name": "Cable Lat Prayer",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Kneel in front of a high cable.",
+    "Pull down with straight arms.",
+    "Return."
+  ],
+  "category": "strength"
+}

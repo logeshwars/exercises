@@ -1,0 +1,17 @@
+{
+  "name": "Double-Leg Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hug both knees in.",
+    "Extend your arms and legs out together.",
+    "Circle your arms back and hug your knees in again."
+  ],
+  "category": "strength"
+}

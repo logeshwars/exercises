@@ -1,0 +1,19 @@
+{
+  "name": "Band Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand on a band with the ends in your hands, palms forward.",
+    "Curl your hands to your shoulders, keeping your elbows by your sides.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

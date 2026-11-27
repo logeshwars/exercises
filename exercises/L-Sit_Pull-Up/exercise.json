@@ -1,0 +1,20 @@
+{
+  "name": "L-Sit Pull-Up",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps"
+  ],
+  "instructions": [
+    "Hang from the bar and lift your legs straight out in front to hip height.",
+    "Hold the L shape as you pull your chin over the bar.",
+    "Lower with control, keeping your legs up."
+  ],
+  "category": "strength"
+}

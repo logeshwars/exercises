@@ -1,0 +1,20 @@
+{
+  "name": "Single-Leg Balance",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand on one leg.",
+    "Hold steady.",
+    "Switch legs."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Devil Press",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "chest"
+  ],
+  "instructions": [
+    "Do a burpee with your hands on two dumbbells.",
+    "Swing the dumbbells from the floor to overhead in one motion.",
+    "Lower and repeat."
+  ],
+  "category": "cardio"
+}

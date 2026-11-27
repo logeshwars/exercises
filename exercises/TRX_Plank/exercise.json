@@ -1,0 +1,19 @@
+{
+  "name": "TRX Plank",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Feet in the straps.",
+    "Hold a plank.",
+    "Keep your body straight."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Vertical Climber Machine",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "lats"
+  ],
+  "instructions": [
+    "Grip the handles.",
+    "Climb with arms and legs.",
+    "Keep a steady pace."
+  ],
+  "category": "cardio"
+}

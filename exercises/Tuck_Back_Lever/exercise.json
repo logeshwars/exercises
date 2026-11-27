@@ -1,0 +1,20 @@
+{
+  "name": "Tuck Back Lever",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hang and rotate through until your body is tucked facing down.",
+    "Hold.",
+    "Return with control."
+  ],
+  "category": "strength"
+}

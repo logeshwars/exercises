@@ -1,0 +1,19 @@
+{
+  "name": "Frog Pump",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Lie on your back with the soles of your feet together and knees out.",
+    "Push through the outer edge of your feet to lift your hips.",
+    "Squeeze your glutes at the top, then lower."
+  ],
+  "category": "strength"
+}

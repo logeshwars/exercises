@@ -1,0 +1,20 @@
+{
+  "name": "Band Chest Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Anchor a band behind you at chest height and hold a handle in each hand.",
+    "Step forward to add tension and press both hands straight out in front of your chest.",
+    "Return slowly until your hands are by your chest."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Reverse Snow Angel",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "lower back"
+  ],
+  "instructions": [
+    "Lie face down with arms by your sides, palms down, and lift your chest slightly.",
+    "Sweep your arms in a wide arc overhead without touching the floor.",
+    "Sweep them back to your sides."
+  ],
+  "category": "strength"
+}

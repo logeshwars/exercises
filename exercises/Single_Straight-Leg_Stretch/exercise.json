@@ -1,0 +1,19 @@
+{
+  "name": "Single Straight-Leg Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lie with your head lifted and both legs straight.",
+    "Scissor one leg towards you while the other lowers.",
+    "Switch legs."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tempo Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Start in a push-up position.",
+    "Lower for a slow count of three to four seconds.",
+    "Pause briefly at the bottom, then press up with control."
+  ],
+  "category": "strength"
+}

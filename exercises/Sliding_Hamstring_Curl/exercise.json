@@ -1,0 +1,20 @@
+{
+  "name": "Sliding Hamstring Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "instructions": [
+    "Lie on your back with heels on sliders or a towel on a smooth floor.",
+    "Lift your hips and slide your heels towards your glutes.",
+    "Slide them back out slowly, keeping your hips up."
+  ],
+  "category": "strength"
+}

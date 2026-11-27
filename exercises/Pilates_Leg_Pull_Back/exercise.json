@@ -1,0 +1,20 @@
+{
+  "name": "Pilates Leg Pull Back",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold a reverse plank.",
+    "Lift one leg.",
+    "Lower and switch."
+  ],
+  "category": "strength"
+}

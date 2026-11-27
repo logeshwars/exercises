@@ -1,0 +1,20 @@
+{
+  "name": "Safety Bar Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "traps"
+  ],
+  "instructions": [
+    "Set up with the safety squat bar on your back.",
+    "Squat down.",
+    "Stand back up."
+  ],
+  "category": "strength"
+}

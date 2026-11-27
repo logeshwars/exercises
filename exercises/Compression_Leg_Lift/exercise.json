@@ -1,0 +1,19 @@
+{
+  "name": "Compression Leg Lift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Sit with your hands beside your knees.",
+    "Lift your straight legs.",
+    "Lower."
+  ],
+  "category": "strength"
+}

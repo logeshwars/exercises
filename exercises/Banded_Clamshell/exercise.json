@@ -1,0 +1,19 @@
+{
+  "name": "Banded Clamshell",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your side with a band above your knees and knees bent.",
+    "Keep your feet together and lift your top knee.",
+    "Lower slowly and switch sides after the set."
+  ],
+  "category": "strength"
+}

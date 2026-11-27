@@ -1,0 +1,17 @@
+{
+  "name": "Pilates Mermaid",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Sit with your legs to one side.",
+    "Reach your arm up and over.",
+    "Switch sides."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hanging Knee Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hang from a pull-up bar.",
+    "Bring your knees up towards your chest.",
+    "Lower slowly without swinging."
+  ],
+  "category": "strength"
+}

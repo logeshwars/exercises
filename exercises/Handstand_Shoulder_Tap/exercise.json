@@ -1,0 +1,20 @@
+{
+  "name": "Handstand Shoulder Tap",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hold a handstand against a wall.",
+    "Tap one shoulder.",
+    "Switch."
+  ],
+  "category": "strength"
+}

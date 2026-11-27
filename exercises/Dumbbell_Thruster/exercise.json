@@ -1,0 +1,21 @@
+{
+  "name": "Dumbbell Thruster",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes",
+    "triceps"
+  ],
+  "instructions": [
+    "Hold dumbbells at your shoulders.",
+    "Squat down.",
+    "Drive up and press the dumbbells overhead."
+  ],
+  "category": "strength"
+}

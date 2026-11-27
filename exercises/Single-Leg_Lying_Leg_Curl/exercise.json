@@ -1,0 +1,17 @@
+{
+  "name": "Single-Leg Lying Leg Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie in the leg curl machine.",
+    "Curl with one leg.",
+    "Lower slowly and switch legs."
+  ],
+  "category": "strength"
+}

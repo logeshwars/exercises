@@ -1,0 +1,19 @@
+{
+  "name": "Weighted Plank",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Place a plate on your back.",
+    "Hold a forearm plank.",
+    "Keep your body straight for the set time."
+  ],
+  "category": "strength"
+}

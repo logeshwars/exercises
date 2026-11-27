@@ -1,0 +1,17 @@
+{
+  "name": "Pilates Seal",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Balance holding your ankles.",
+    "Clap your feet together three times, roll back, then roll up.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

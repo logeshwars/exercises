@@ -1,0 +1,18 @@
+{
+  "name": "Shin Box Get-Up",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "adductors"
+  ],
+  "instructions": [
+    "Sit in a 90-90 position.",
+    "Lift your hips up to kneeling.",
+    "Lower and repeat, switching sides."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Wheel Pose",
+  "level": "expert",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your back with hands beside your ears and feet flat.",
+    "Press up into a full back bend.",
+    "Hold, then lower carefully."
+  ],
+  "category": "stretching"
+}

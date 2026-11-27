@@ -1,0 +1,20 @@
+{
+  "name": "Weighted Dip",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Attach weight with a dip belt.",
+    "Lower until your shoulders are just below your elbows.",
+    "Press back up."
+  ],
+  "category": "strength"
+}

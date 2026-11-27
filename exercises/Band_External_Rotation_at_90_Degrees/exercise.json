@@ -1,0 +1,17 @@
+{
+  "name": "Band External Rotation at 90 Degrees",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a band with your elbow up at 90 degrees.",
+    "Rotate your forearm back.",
+    "Return."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Machine Rear Delt Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Sit in the machine.",
+    "Row with elbows high.",
+    "Return."
+  ],
+  "category": "strength"
+}

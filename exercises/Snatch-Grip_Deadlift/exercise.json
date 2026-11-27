@@ -1,0 +1,21 @@
+{
+  "name": "Snatch-Grip Deadlift",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "glutes",
+    "traps"
+  ],
+  "instructions": [
+    "Grip the bar very wide.",
+    "Lift the bar from the floor with a flat back.",
+    "Lower it with control."
+  ],
+  "category": "powerlifting"
+}

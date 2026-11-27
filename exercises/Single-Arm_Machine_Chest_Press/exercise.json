@@ -1,0 +1,20 @@
+{
+  "name": "Single-Arm Machine Chest Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Sit in the chest press machine.",
+    "Press one handle forward.",
+    "Return slowly and switch sides."
+  ],
+  "category": "strength"
+}

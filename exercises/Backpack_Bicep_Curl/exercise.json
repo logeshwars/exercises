@@ -1,0 +1,19 @@
+{
+  "name": "Backpack Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a loaded backpack by its top handle with palms up.",
+    "Curl it to your chest, keeping your elbows by your sides.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

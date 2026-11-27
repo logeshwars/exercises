@@ -1,0 +1,20 @@
+{
+  "name": "Jumping Jack",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand with feet together and arms at your sides.",
+    "Jump your feet wide while raising your arms overhead.",
+    "Jump back to the start."
+  ],
+  "category": "cardio"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Scapular Retraction",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Stand or sit tall.",
+    "Squeeze your shoulder blades together.",
+    "Release slowly."
+  ],
+  "category": "strength"
+}

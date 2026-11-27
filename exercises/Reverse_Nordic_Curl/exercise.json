@@ -1,0 +1,17 @@
+{
+  "name": "Reverse Nordic Curl",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Kneel upright.",
+    "Lean back slowly.",
+    "Return."
+  ],
+  "category": "strength"
+}

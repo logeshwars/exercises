@@ -1,0 +1,19 @@
+{
+  "name": "TRX Y Fly",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Hold the straps and lean back.",
+    "Raise your arms into a Y.",
+    "Return."
+  ],
+  "category": "strength"
+}

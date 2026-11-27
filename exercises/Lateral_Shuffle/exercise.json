@@ -1,0 +1,20 @@
+{
+  "name": "Lateral Shuffle",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "calves"
+  ],
+  "instructions": [
+    "Get into a half squat.",
+    "Shuffle sideways quickly without crossing your feet.",
+    "Change direction after a few steps."
+  ],
+  "category": "cardio"
+}

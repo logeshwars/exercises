@@ -1,0 +1,20 @@
+{
+  "name": "Prone Y-T-W Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Lie face down with your forehead on a towel.",
+    "Lift your arms into a Y, then a T, then a W shape, holding each briefly.",
+    "Lower your arms between each letter, squeezing your shoulder blades as you lift."
+  ],
+  "category": "strength"
+}

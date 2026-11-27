@@ -1,0 +1,20 @@
+{
+  "name": "Ski Erg",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Grip the handles overhead.",
+    "Pull them down while hinging at the hips.",
+    "Return and repeat in a rhythm."
+  ],
+  "category": "cardio"
+}

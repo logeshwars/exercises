@@ -1,0 +1,19 @@
+{
+  "name": "Smith Machine Glute Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Kneel with your foot under the Smith bar.",
+    "Kick back.",
+    "Return."
+  ],
+  "category": "strength"
+}

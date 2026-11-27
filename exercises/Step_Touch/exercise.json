@@ -1,0 +1,19 @@
+{
+  "name": "Step Touch",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "Stand tall.",
+    "Step to one side and tap the other foot beside it.",
+    "Step back the other way, adding arm swings."
+  ],
+  "category": "cardio"
+}

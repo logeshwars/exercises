@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Squeeze Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on a bench or the floor holding two dumbbells pressed together over your chest.",
+    "Lower them to your chest while squeezing them together the whole time.",
+    "Press back up, still squeezing."
+  ],
+  "category": "strength"
+}

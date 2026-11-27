@@ -1,0 +1,20 @@
+{
+  "name": "Football Match",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Play a match.",
+    "Rest at half time.",
+    "Stay hydrated."
+  ],
+  "category": "cardio"
+}

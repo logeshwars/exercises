@@ -1,0 +1,19 @@
+{
+  "name": "Prone I Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Lie face down.",
+    "Raise your arms straight overhead.",
+    "Lower."
+  ],
+  "category": "strength"
+}

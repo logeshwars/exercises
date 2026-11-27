@@ -1,0 +1,20 @@
+{
+  "name": "Commando Pull-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Grip the bar with hands close together, one in front of the other.",
+    "Pull up so your head passes to one side of the bar.",
+    "Lower and alternate the side your head goes to."
+  ],
+  "category": "strength"
+}

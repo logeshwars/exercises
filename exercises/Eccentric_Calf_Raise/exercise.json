@@ -1,0 +1,17 @@
+{
+  "name": "Eccentric Calf Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Rise up on both feet.",
+    "Lower on one foot slowly.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Walking Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold dumbbells at your sides.",
+    "Step forward into a lunge until both knees are bent at about 90 degrees.",
+    "Push through the front foot and step into the next lunge."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "TRX Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the straps.",
+    "Squat down.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Glute-Focused Back Extension",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Round your upper back slightly in the back extension station.",
+    "Extend at the hips, squeezing your glutes.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

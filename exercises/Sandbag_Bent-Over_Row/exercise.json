@@ -1,0 +1,20 @@
+{
+  "name": "Sandbag Bent-Over Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Hinge forward holding the sandbag.",
+    "Row it to your stomach.",
+    "Lower."
+  ],
+  "category": "strength"
+}

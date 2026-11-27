@@ -1,0 +1,19 @@
+{
+  "name": "Typewriter Pull-Up",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Pull up to the bar.",
+    "Shift your body side to side along the bar.",
+    "Lower."
+  ],
+  "category": "strength"
+}

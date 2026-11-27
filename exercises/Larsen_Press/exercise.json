@@ -1,0 +1,20 @@
+{
+  "name": "Larsen Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on a bench with your legs straight and feet off the floor.",
+    "Lower the bar to your chest.",
+    "Press up while keeping your body stable."
+  ],
+  "category": "powerlifting"
+}

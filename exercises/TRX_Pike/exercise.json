@@ -1,0 +1,19 @@
+{
+  "name": "TRX Pike",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Feet in the straps in a plank.",
+    "Pike your hips up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

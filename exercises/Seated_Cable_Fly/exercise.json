@@ -1,0 +1,19 @@
+{
+  "name": "Seated Cable Fly",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit on a bench between two cables set at shoulder height.",
+    "Bring the handles together in front of your chest in an arc.",
+    "Return slowly with a slight bend in your elbows."
+  ],
+  "category": "strength"
+}

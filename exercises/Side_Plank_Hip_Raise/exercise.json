@@ -1,0 +1,20 @@
+{
+  "name": "Side Plank Hip Raise",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your side supported on one forearm with legs stacked.",
+    "Lower your hip towards the floor.",
+    "Lift it back up high and repeat, then switch sides."
+  ],
+  "category": "strength"
+}

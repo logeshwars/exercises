@@ -1,0 +1,20 @@
+{
+  "name": "Kickboxing Front Kick",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes"
+  ],
+  "instructions": [
+    "Lift your knee.",
+    "Push your foot forward.",
+    "Return."
+  ],
+  "category": "cardio"
+}

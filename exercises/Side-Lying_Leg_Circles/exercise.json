@@ -1,0 +1,19 @@
+{
+  "name": "Side-Lying Leg Circles",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your side.",
+    "Draw small circles with your top leg.",
+    "Reverse direction."
+  ],
+  "category": "strength"
+}

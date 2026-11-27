@@ -1,0 +1,20 @@
+{
+  "name": "Band Face Pull",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Anchor a band at face height and hold the ends with thumbs pointing back.",
+    "Pull towards your face, splitting the band so your hands finish beside your ears.",
+    "Return slowly with control."
+  ],
+  "category": "strength"
+}

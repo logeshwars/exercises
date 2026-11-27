@@ -1,0 +1,17 @@
+{
+  "name": "Dumbbell Shrug Behind Body",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold dumbbells behind your thighs.",
+    "Shrug your shoulders straight up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

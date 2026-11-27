@@ -1,0 +1,20 @@
+{
+  "name": "Dragon Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "adductors"
+  ],
+  "instructions": [
+    "Step one leg behind the other.",
+    "Squat down on the front leg.",
+    "Stand back up."
+  ],
+  "category": "strength"
+}

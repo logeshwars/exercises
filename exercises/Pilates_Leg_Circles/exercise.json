@@ -1,0 +1,19 @@
+{
+  "name": "Pilates Leg Circles",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Lie on your back with one leg up.",
+    "Circle the raised leg.",
+    "Reverse direction, then switch legs."
+  ],
+  "category": "strength"
+}

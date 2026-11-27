@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Front Rack Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hold kettlebells in the front rack position.",
+    "Step forward into a lunge.",
+    "Push back to standing."
+  ],
+  "category": "strength"
+}

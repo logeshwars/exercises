@@ -1,0 +1,17 @@
+{
+  "name": "Frankenstein Walk",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Walk forward and kick one straight leg up towards your opposite hand.",
+    "Repeat with the other leg.",
+    "Keep your back straight."
+  ],
+  "category": "stretching"
+}

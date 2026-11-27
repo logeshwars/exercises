@@ -1,0 +1,19 @@
+{
+  "name": "Cable Reverse Curl Straight Bar",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Hold a cable bar palms down.",
+    "Curl up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

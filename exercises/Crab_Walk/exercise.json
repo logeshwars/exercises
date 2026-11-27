@@ -1,0 +1,20 @@
+{
+  "name": "Crab Walk",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Sit with hands behind you and feet flat, then lift your hips.",
+    "Walk on your hands and feet.",
+    "Keep your hips up the whole time."
+  ],
+  "category": "cardio"
+}

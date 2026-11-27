@@ -1,0 +1,20 @@
+{
+  "name": "Brisk Walking",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Walk at a pace where you can talk but not sing.",
+    "Swing your arms and keep an upright posture.",
+    "Keep going for the set time."
+  ],
+  "category": "cardio"
+}

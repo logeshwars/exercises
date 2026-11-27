@@ -1,0 +1,19 @@
+{
+  "name": "Trap Bar Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand inside a trap bar and hold the handles.",
+    "Shrug your shoulders straight up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

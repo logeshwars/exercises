@@ -1,0 +1,17 @@
+{
+  "name": "Boat Pose with Twist",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a boat position.",
+    "Rotate your torso side to side.",
+    "Keep your legs up."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Single-Arm Cable Lat Pulldown Kneeling",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Kneel beside a cable set high and hold the handle in one hand.",
+    "Pull your elbow down towards your hip.",
+    "Return slowly and switch sides."
+  ],
+  "category": "strength"
+}

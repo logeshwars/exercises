@@ -1,0 +1,20 @@
+{
+  "name": "Kayaking",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Paddle steadily.",
+    "Rotate your torso with each stroke.",
+    "Keep a rhythm."
+  ],
+  "category": "cardio"
+}

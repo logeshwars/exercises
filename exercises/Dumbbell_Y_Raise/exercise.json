@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Y Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Stand or lean slightly forward holding light dumbbells, thumbs up.",
+    "Raise your arms up and out into a Y shape to head height.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

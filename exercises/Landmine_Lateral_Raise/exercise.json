@@ -1,0 +1,17 @@
+{
+  "name": "Landmine Lateral Raise",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold the bar end low by your side.",
+    "Raise it out to the side.",
+    "Lower."
+  ],
+  "category": "strength"
+}

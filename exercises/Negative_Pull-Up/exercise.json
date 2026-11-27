@@ -1,0 +1,20 @@
+{
+  "name": "Negative Pull-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Jump or step up so your chin is above the bar.",
+    "Lower yourself as slowly as you can until your arms are straight.",
+    "Step down and repeat."
+  ],
+  "category": "strength"
+}

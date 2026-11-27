@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Close-Grip Floor Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on the floor holding two dumbbells together above your chest.",
+    "Lower them until your upper arms touch the floor, elbows close.",
+    "Press back up."
+  ],
+  "category": "strength"
+}

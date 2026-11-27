@@ -1,0 +1,19 @@
+{
+  "name": "Agility Ladder Icky Shuffle",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Step in, in, out down the ladder.",
+    "Alternate the outside foot.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

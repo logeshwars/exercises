@@ -1,0 +1,20 @@
+{
+  "name": "Archer Pull-Up",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Grip the bar wide.",
+    "Pull towards one hand while the other arm straightens along the bar.",
+    "Lower and repeat on the other side."
+  ],
+  "category": "strength"
+}

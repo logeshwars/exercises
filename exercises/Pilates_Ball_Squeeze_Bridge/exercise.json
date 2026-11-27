@@ -1,0 +1,19 @@
+{
+  "name": "Pilates Ball Squeeze Bridge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Hold a small ball between your knees.",
+    "Bridge up while squeezing the ball.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

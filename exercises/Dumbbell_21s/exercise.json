@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell 21s",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand holding dumbbells at your sides.",
+    "Do 7 curls from the bottom to halfway, then 7 from halfway to the top.",
+    "Finish with 7 full curls without resting."
+  ],
+  "category": "strength"
+}

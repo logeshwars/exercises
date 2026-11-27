@@ -1,0 +1,19 @@
+{
+  "name": "Scapular Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": [
+    "Hold a plank with straight arms.",
+    "Let your chest sink between your shoulder blades.",
+    "Push back up."
+  ],
+  "category": "strength"
+}

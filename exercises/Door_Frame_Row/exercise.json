@@ -1,0 +1,20 @@
+{
+  "name": "Door Frame Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Stand in a doorway and grip the frame with one hand at chest height.",
+    "Lean back with your arm straight and feet close to the frame.",
+    "Pull yourself towards the frame by bending the elbow, then lower slowly."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Outdoor Running",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Run at a steady pace.",
+    "Keep your posture upright.",
+    "Cool down."
+  ],
+  "category": "cardio"
+}

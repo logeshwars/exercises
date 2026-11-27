@@ -1,0 +1,21 @@
+{
+  "name": "Block Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "traps"
+  ],
+  "instructions": [
+    "Set the bar on blocks at knee height.",
+    "Lift it to standing.",
+    "Lower back to the blocks."
+  ],
+  "category": "powerlifting"
+}

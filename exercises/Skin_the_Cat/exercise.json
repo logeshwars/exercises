@@ -1,0 +1,20 @@
+{
+  "name": "Skin the Cat",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hang and tuck your knees.",
+    "Rotate backward through your arms.",
+    "Return the same way."
+  ],
+  "category": "strength"
+}

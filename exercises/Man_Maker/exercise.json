@@ -1,0 +1,21 @@
+{
+  "name": "Man Maker",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "middle back",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Do a renegade row on each side.",
+    "Jump your feet in and clean the dumbbells.",
+    "Press them overhead."
+  ],
+  "category": "cardio"
+}

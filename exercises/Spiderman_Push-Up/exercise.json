@@ -1,0 +1,21 @@
+{
+  "name": "Spiderman Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Start in a push-up position.",
+    "As you lower, bring one knee out to the side towards the elbow on the same side.",
+    "Press up and return the leg, then alternate sides."
+  ],
+  "category": "strength"
+}

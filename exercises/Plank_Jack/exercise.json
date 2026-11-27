@@ -1,0 +1,20 @@
+{
+  "name": "Plank Jack",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "calves"
+  ],
+  "instructions": [
+    "Start in a high plank.",
+    "Jump your feet wide and back together, like a jumping jack.",
+    "Keep your hips steady throughout."
+  ],
+  "category": "cardio"
+}

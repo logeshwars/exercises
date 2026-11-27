@@ -1,0 +1,18 @@
+{
+  "name": "Camel Pose",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Kneel with your hips over your knees.",
+    "Arch back and reach for your heels.",
+    "Hold, then come up slowly."
+  ],
+  "category": "stretching"
+}

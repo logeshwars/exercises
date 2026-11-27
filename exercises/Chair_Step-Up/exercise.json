@@ -1,0 +1,20 @@
+{
+  "name": "Chair Step-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand facing a sturdy chair or step.",
+    "Step up with one foot and drive through it to stand on top.",
+    "Step down with control and repeat."
+  ],
+  "category": "strength"
+}

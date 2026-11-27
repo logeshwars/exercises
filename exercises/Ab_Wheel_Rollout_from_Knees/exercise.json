@@ -1,0 +1,20 @@
+{
+  "name": "Ab Wheel Rollout from Knees",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Kneel holding an ab wheel under your shoulders.",
+    "Roll it forward as far as you can control, keeping your back flat.",
+    "Pull it back to the start using your abs."
+  ],
+  "category": "strength"
+}

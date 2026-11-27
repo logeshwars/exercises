@@ -1,0 +1,17 @@
+{
+  "name": "Band Anti-Rotation Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand side-on to a band anchored at chest height.",
+    "Press it out in front of your chest.",
+    "Hold without letting your torso rotate."
+  ],
+  "category": "strength"
+}

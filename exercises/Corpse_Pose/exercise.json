@@ -1,0 +1,15 @@
+{
+  "name": "Corpse Pose",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on your back.",
+    "Let your arms rest by your sides.",
+    "Relax completely and breathe."
+  ],
+  "category": "stretching"
+}

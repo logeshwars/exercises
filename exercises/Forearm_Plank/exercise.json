@@ -1,0 +1,19 @@
+{
+  "name": "Forearm Plank",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Rest on your forearms and toes with elbows under your shoulders.",
+    "Keep your body straight and squeeze your glutes.",
+    "Hold for the set time."
+  ],
+  "category": "strength"
+}

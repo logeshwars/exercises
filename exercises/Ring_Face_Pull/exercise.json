@@ -1,0 +1,19 @@
+{
+  "name": "Ring Face Pull",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Lean back holding the rings.",
+    "Pull towards your face.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

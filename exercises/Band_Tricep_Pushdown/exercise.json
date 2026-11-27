@@ -1,0 +1,17 @@
+{
+  "name": "Band Tricep Pushdown",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anchor a band overhead and hold it with elbows bent by your sides.",
+    "Push your hands down until your arms are straight.",
+    "Return slowly, keeping your elbows fixed."
+  ],
+  "category": "strength"
+}

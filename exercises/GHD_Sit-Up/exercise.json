@@ -1,0 +1,19 @@
+{
+  "name": "GHD Sit-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Sit on the GHD with your feet locked.",
+    "Lean back, then sit up.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

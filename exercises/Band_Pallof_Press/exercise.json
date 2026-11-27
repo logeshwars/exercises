@@ -1,0 +1,17 @@
+{
+  "name": "Band Pallof Press",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anchor a band at chest height and stand side-on to it.",
+    "Hold the band at your chest and press it straight out.",
+    "Resist the twist, then bring it back."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Sprawl",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand, then drop your hands to the floor and kick your legs back.",
+    "Let your hips touch the floor briefly.",
+    "Jump your feet back in and stand."
+  ],
+  "category": "cardio"
+}

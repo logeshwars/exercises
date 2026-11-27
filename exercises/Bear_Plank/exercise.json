@@ -1,0 +1,20 @@
+{
+  "name": "Bear Plank",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Start on hands and knees.",
+    "Lift your knees a few centimetres off the floor, back flat.",
+    "Hold for the set time."
+  ],
+  "category": "strength"
+}

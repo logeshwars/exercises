@@ -1,0 +1,17 @@
+{
+  "name": "Pilates Corkscrew",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie with both legs up.",
+    "Circle them together.",
+    "Reverse direction."
+  ],
+  "category": "strength"
+}

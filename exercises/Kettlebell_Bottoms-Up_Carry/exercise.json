@@ -1,0 +1,19 @@
+{
+  "name": "Kettlebell Bottoms-Up Carry",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a kettlebell upside down at your shoulder.",
+    "Walk.",
+    "Switch arms."
+  ],
+  "category": "strength"
+}

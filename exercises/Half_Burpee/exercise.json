@@ -1,0 +1,20 @@
+{
+  "name": "Half Burpee",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Squat and place your hands on the floor.",
+    "Jump your feet back to a plank.",
+    "Jump them forward and stand up without the jump at the top."
+  ],
+  "category": "cardio"
+}

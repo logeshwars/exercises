@@ -1,0 +1,19 @@
+{
+  "name": "Incline Dumbbell Y Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Lie face down on an incline bench holding light dumbbells.",
+    "Raise your arms into a Y.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

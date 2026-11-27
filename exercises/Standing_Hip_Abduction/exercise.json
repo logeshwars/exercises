@@ -1,0 +1,19 @@
+{
+  "name": "Standing Hip Abduction",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold a support.",
+    "Lift one leg out to the side.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

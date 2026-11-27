@@ -1,0 +1,17 @@
+{
+  "name": "Leg Press Single-Leg Calf Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Place one foot on the leg press platform.",
+    "Push through your toes.",
+    "Return."
+  ],
+  "category": "strength"
+}

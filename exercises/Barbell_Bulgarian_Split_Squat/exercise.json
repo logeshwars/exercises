@@ -1,0 +1,20 @@
+{
+  "name": "Barbell Bulgarian Split Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Place the bar on your back and your rear foot on a bench.",
+    "Lower your back knee.",
+    "Push back up."
+  ],
+  "category": "strength"
+}

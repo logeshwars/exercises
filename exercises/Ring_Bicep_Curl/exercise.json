@@ -1,0 +1,17 @@
+{
+  "name": "Ring Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold the rings and lean back.",
+    "Curl towards your forehead.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

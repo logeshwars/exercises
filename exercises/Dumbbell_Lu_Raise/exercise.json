@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Lu Raise",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Stand holding light dumbbells at your sides, thumbs up.",
+    "Raise your straight arms out to the sides and keep going until they meet overhead.",
+    "Lower slowly the same way."
+  ],
+  "category": "strength"
+}

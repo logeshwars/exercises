@@ -1,0 +1,20 @@
+{
+  "name": "Single-Arm Landmine Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Stand facing a landmine bar and hold its end at your shoulder.",
+    "Press it up and forward.",
+    "Lower slowly and switch sides."
+  ],
+  "category": "strength"
+}

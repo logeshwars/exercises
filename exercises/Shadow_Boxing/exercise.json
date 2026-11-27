@@ -1,0 +1,20 @@
+{
+  "name": "Shadow Boxing",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "calves"
+  ],
+  "instructions": [
+    "Stand in a boxing stance.",
+    "Throw punches into the air, moving your feet.",
+    "Keep your hands up and stay light on your feet."
+  ],
+  "category": "cardio"
+}

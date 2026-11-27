@@ -1,0 +1,20 @@
+{
+  "name": "Band Romanian Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Stand on a band holding the ends.",
+    "Hinge at the hips with a flat back until you feel a stretch in your hamstrings.",
+    "Drive your hips forward to stand tall."
+  ],
+  "category": "strength"
+}

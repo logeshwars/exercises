@@ -1,0 +1,20 @@
+{
+  "name": "Towel Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Loop a towel around a sturdy post or door handle and hold both ends.",
+    "Lean back with arms straight and feet close to the anchor.",
+    "Pull your chest towards your hands, squeezing your shoulder blades, then lower slowly."
+  ],
+  "category": "strength"
+}

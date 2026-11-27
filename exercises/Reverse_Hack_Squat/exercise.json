@@ -1,0 +1,20 @@
+{
+  "name": "Reverse Hack Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Face into the hack squat machine.",
+    "Squat down, leaning slightly forward.",
+    "Push back up."
+  ],
+  "category": "strength"
+}

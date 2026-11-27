@@ -1,0 +1,20 @@
+{
+  "name": "Assisted Dip Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Kneel or stand on the pad and grip the handles.",
+    "Lower your body by bending your elbows.",
+    "Press back up."
+  ],
+  "category": "strength"
+}

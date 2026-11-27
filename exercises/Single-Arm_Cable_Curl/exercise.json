@@ -1,0 +1,17 @@
+{
+  "name": "Single-Arm Cable Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a low cable handle in one hand.",
+    "Curl it up.",
+    "Lower slowly and switch sides."
+  ],
+  "category": "strength"
+}

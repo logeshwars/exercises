@@ -1,0 +1,18 @@
+{
+  "name": "Sun Salutation A",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Reach up, fold forward, half lift, step or jump back to a plank.",
+    "Lower through chaturanga to upward dog, then press back to downward dog.",
+    "Step forward, rise up and repeat."
+  ],
+  "category": "stretching"
+}

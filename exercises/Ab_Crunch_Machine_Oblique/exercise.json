@@ -1,0 +1,17 @@
+{
+  "name": "Ab Crunch Machine Oblique",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit in the machine.",
+    "Crunch to one side.",
+    "Return."
+  ],
+  "category": "strength"
+}

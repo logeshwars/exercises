@@ -1,0 +1,20 @@
+{
+  "name": "Medicine Ball Squat to Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the ball at your chest and squat.",
+    "Stand and press it overhead.",
+    "Lower."
+  ],
+  "category": "strength"
+}

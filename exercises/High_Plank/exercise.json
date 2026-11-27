@@ -1,0 +1,20 @@
+{
+  "name": "High Plank",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "chest"
+  ],
+  "instructions": [
+    "Support yourself on straight arms and toes, hands under shoulders.",
+    "Keep your body in a straight line.",
+    "Hold for the set time."
+  ],
+  "category": "strength"
+}

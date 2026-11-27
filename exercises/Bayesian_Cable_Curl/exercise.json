@@ -1,0 +1,17 @@
+{
+  "name": "Bayesian Cable Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Face away from a low cable with your arm stretched behind you.",
+    "Curl the handle forward.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

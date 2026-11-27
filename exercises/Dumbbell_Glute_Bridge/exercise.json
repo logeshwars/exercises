@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Glute Bridge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lie on your back with a dumbbell across your hips.",
+    "Drive through your heels to lift your hips.",
+    "Squeeze your glutes at the top and lower."
+  ],
+  "category": "strength"
+}

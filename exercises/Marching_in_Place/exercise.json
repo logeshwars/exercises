@@ -1,0 +1,19 @@
+{
+  "name": "Marching in Place",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "Stand tall.",
+    "March, lifting your knees.",
+    "Swing your arms."
+  ],
+  "category": "cardio"
+}

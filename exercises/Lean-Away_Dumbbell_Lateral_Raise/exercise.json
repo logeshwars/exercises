@@ -1,0 +1,17 @@
+{
+  "name": "Lean-Away Dumbbell Lateral Raise",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a post and lean away from it with a dumbbell in the other hand.",
+    "Raise the dumbbell out to the side.",
+    "Lower slowly and switch sides."
+  ],
+  "category": "strength"
+}

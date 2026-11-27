@@ -1,0 +1,19 @@
+{
+  "name": "Seated Dumbbell Curl and Press",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit holding dumbbells.",
+    "Curl them up, then press overhead.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

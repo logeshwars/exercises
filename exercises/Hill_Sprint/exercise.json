@@ -1,0 +1,21 @@
+{
+  "name": "Hill Sprint",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Sprint up a hill.",
+    "Walk back down.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

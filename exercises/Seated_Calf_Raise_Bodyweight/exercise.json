@@ -1,0 +1,17 @@
+{
+  "name": "Seated Calf Raise Bodyweight",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit tall in a chair.",
+    "Lift your heels.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

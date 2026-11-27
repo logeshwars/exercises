@@ -1,0 +1,21 @@
+{
+  "name": "Low-Bar Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Place the bar low on your upper back.",
+    "Squat down with a slight forward lean.",
+    "Stand back up."
+  ],
+  "category": "powerlifting"
+}

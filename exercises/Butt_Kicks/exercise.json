@@ -1,0 +1,19 @@
+{
+  "name": "Butt Kicks",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "Stand tall.",
+    "Jog in place, kicking your heels up towards your glutes.",
+    "Keep a quick rhythm."
+  ],
+  "category": "cardio"
+}

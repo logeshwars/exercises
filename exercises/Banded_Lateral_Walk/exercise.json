@@ -1,0 +1,19 @@
+{
+  "name": "Banded Lateral Walk",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Place a band around your legs above the knees or at the ankles.",
+    "Get into a half squat.",
+    "Step sideways keeping tension in the band, then walk back the other way."
+  ],
+  "category": "strength"
+}

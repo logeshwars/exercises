@@ -1,0 +1,17 @@
+{
+  "name": "Behind-the-Back Cable Lateral Raise",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand side-on to a low cable, holding the handle behind your back.",
+    "Raise your arm out to the side.",
+    "Lower slowly and switch sides."
+  ],
+  "category": "strength"
+}

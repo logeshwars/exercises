@@ -1,0 +1,20 @@
+{
+  "name": "Bodyweight Lateral Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes"
+  ],
+  "instructions": [
+    "Stand with feet together.",
+    "Step wide to one side and sit back into that hip, keeping the other leg straight.",
+    "Push back to the start and alternate sides."
+  ],
+  "category": "strength"
+}

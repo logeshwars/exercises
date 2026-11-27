@@ -1,0 +1,17 @@
+{
+  "name": "Glute Squeeze Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie, sit or stand.",
+    "Squeeze your glutes as hard as you can.",
+    "Hold, then release."
+  ],
+  "category": "strength"
+}

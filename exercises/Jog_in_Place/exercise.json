@@ -1,0 +1,19 @@
+{
+  "name": "Jog in Place",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "Stand tall.",
+    "Jog lightly on the spot.",
+    "Swing your arms and keep a steady pace."
+  ],
+  "category": "cardio"
+}

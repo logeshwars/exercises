@@ -1,0 +1,20 @@
+{
+  "name": "Swimmer Kicks",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie face down with arms overhead.",
+    "Lift your arms and legs slightly and flutter them up and down like swimming.",
+    "Keep breathing steadily."
+  ],
+  "category": "strength"
+}

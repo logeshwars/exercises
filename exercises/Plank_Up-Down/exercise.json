@@ -1,0 +1,20 @@
+{
+  "name": "Plank Up-Down",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Start in a forearm plank.",
+    "Press up onto one hand, then the other, into a high plank.",
+    "Lower back down one arm at a time."
+  ],
+  "category": "strength"
+}

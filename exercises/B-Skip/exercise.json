@@ -1,0 +1,20 @@
+{
+  "name": "B-Skip",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Skip, extend your leg out, then pull it back down.",
+    "Strike the ground under your hips.",
+    "Alternate."
+  ],
+  "category": "cardio"
+}

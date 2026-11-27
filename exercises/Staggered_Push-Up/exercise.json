@@ -1,0 +1,20 @@
+{
+  "name": "Staggered Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Set up in a push-up with one hand forward and the other further back.",
+    "Lower your chest to the floor, keeping your body straight.",
+    "Press up, then switch hand positions on the next set."
+  ],
+  "category": "strength"
+}

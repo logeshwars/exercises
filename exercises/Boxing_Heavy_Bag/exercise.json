@@ -1,0 +1,20 @@
+{
+  "name": "Boxing Heavy Bag",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest"
+  ],
+  "instructions": [
+    "Throw combinations at the bag.",
+    "Move your feet.",
+    "Rest between rounds."
+  ],
+  "category": "cardio"
+}

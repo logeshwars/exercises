@@ -1,0 +1,20 @@
+{
+  "name": "Freestanding Handstand",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms"
+  ],
+  "instructions": [
+    "Kick up into a handstand.",
+    "Balance using your fingertips.",
+    "Hold, then come down."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sphinx Pose",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Lie face down on your forearms.",
+    "Lift your chest gently.",
+    "Hold and breathe."
+  ],
+  "category": "stretching"
+}

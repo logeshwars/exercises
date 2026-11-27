@@ -1,0 +1,20 @@
+{
+  "name": "Wall Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand an arm's length from a wall and place your palms on it at shoulder height.",
+    "Bend your elbows to bring your chest towards the wall, body in a straight line.",
+    "Push back to the start."
+  ],
+  "category": "strength"
+}

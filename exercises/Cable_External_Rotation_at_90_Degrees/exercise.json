@@ -1,0 +1,17 @@
+{
+  "name": "Cable External Rotation at 90 Degrees",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Set a cable at shoulder height with your elbow up at 90 degrees.",
+    "Rotate your forearm up and back.",
+    "Return slowly and switch sides."
+  ],
+  "category": "strength"
+}

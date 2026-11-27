@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Single-Leg Hip Thrust",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Rest your upper back on a bench with a dumbbell on one hip.",
+    "Lift that foot's leg off the floor and drive up through the other heel.",
+    "Lower slowly and switch sides after the set."
+  ],
+  "category": "strength"
+}

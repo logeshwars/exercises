@@ -1,0 +1,20 @@
+{
+  "name": "Band Bent-Over Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Stand on the middle of a band and hinge forward at the hips with a flat back.",
+    "Hold the ends and pull your hands towards your lower ribs.",
+    "Lower slowly to straight arms."
+  ],
+  "category": "strength"
+}

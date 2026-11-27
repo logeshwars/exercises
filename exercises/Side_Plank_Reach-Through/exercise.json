@@ -1,0 +1,19 @@
+{
+  "name": "Side Plank Reach-Through",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold a side plank on one forearm with your top arm reaching up.",
+    "Reach the top arm under your body, rotating your chest towards the floor.",
+    "Rotate back open."
+  ],
+  "category": "strength"
+}

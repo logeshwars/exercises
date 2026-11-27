@@ -1,0 +1,19 @@
+{
+  "name": "Copenhagen Plank",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Lie on your side and place your top leg on a bench.",
+    "Lift your hips so your body is straight, with the bottom leg hanging.",
+    "Hold, then switch sides."
+  ],
+  "category": "strength"
+}

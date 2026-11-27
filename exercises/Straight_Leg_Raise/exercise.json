@@ -1,0 +1,19 @@
+{
+  "name": "Straight Leg Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Lie with one knee bent.",
+    "Lift the straight leg up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

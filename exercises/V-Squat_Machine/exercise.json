@@ -1,0 +1,19 @@
+{
+  "name": "V-Squat Machine",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Set up in the machine with shoulders under the pads.",
+    "Squat down.",
+    "Push back up."
+  ],
+  "category": "strength"
+}

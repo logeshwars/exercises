@@ -1,0 +1,19 @@
+{
+  "name": "Medicine Ball Sit-Up Throw",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit up and throw the ball to a partner or wall.",
+    "Catch it.",
+    "Lower."
+  ],
+  "category": "plyometrics"
+}

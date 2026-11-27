@@ -1,0 +1,17 @@
+{
+  "name": "Cable Bicep Curl Behind Body",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand in front of a low cable with your arm behind you.",
+    "Curl forward.",
+    "Return."
+  ],
+  "category": "strength"
+}

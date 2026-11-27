@@ -1,0 +1,20 @@
+{
+  "name": "Archer Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Set up in a wide push-up with fingers pointing out.",
+    "Lower towards one hand while the other arm stays nearly straight.",
+    "Press back to the middle and repeat on the other side."
+  ],
+  "category": "strength"
+}

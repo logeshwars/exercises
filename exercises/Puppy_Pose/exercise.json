@@ -1,0 +1,17 @@
+{
+  "name": "Puppy Pose",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Start on hands and knees.",
+    "Walk your hands forward and lower your chest towards the floor.",
+    "Hold."
+  ],
+  "category": "stretching"
+}

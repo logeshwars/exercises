@@ -1,0 +1,17 @@
+{
+  "name": "Captain's Chair Knee Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Support yourself on your forearms in the captain's chair.",
+    "Raise your knees to your chest.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

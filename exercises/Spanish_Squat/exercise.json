@@ -1,0 +1,19 @@
+{
+  "name": "Spanish Squat",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Loop a band behind both knees, anchored in front.",
+    "Sit back into a squat.",
+    "Hold."
+  ],
+  "category": "strength"
+}

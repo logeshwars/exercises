@@ -1,0 +1,19 @@
+{
+  "name": "TRX Knee Tuck",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Feet in the straps in a plank.",
+    "Tuck your knees in.",
+    "Extend."
+  ],
+  "category": "strength"
+}

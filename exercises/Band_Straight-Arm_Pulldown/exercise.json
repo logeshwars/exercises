@@ -1,0 +1,19 @@
+{
+  "name": "Band Straight-Arm Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Anchor a band above head height and hold it with straight arms.",
+    "Hinge slightly forward and pull the band down to your thighs, keeping arms straight.",
+    "Let it rise slowly back to the start."
+  ],
+  "category": "strength"
+}

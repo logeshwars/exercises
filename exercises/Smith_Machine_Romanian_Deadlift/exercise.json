@@ -1,0 +1,19 @@
+{
+  "name": "Smith Machine Romanian Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the Smith bar.",
+    "Hinge back.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

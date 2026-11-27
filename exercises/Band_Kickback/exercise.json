@@ -1,0 +1,19 @@
+{
+  "name": "Band Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Loop a band around your ankles or anchor it low and stand on one leg.",
+    "Kick the other leg straight back, squeezing your glute.",
+    "Return slowly and switch legs after the set."
+  ],
+  "category": "strength"
+}

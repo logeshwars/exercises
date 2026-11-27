@@ -1,0 +1,17 @@
+{
+  "name": "Neck Flexion and Extension",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit or stand tall.",
+    "Lower your chin to your chest.",
+    "Lift your head back gently."
+  ],
+  "category": "strength"
+}

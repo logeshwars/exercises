@@ -1,0 +1,20 @@
+{
+  "name": "5-10-5 Pro Agility Drill",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "adductors"
+  ],
+  "instructions": [
+    "Start between two cones.",
+    "Sprint 5 yards one way, 10 the other, then 5 back.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

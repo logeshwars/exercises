@@ -1,0 +1,17 @@
+{
+  "name": "Quad Set",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit with your leg straight.",
+    "Tighten your thigh, pushing the back of your knee down.",
+    "Hold, then release."
+  ],
+  "category": "strength"
+}

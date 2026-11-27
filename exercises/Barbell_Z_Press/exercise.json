@@ -1,0 +1,20 @@
+{
+  "name": "Barbell Z Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Sit on the floor with legs straight and the bar at your shoulders.",
+    "Press it overhead.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

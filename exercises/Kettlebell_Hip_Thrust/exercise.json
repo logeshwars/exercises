@@ -1,0 +1,19 @@
+{
+  "name": "Kettlebell Hip Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Rest your back on a bench with a kettlebell on your hips.",
+    "Thrust up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

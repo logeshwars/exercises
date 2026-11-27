@@ -1,0 +1,20 @@
+{
+  "name": "Agility Ladder Lateral Shuffle",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Face sideways to the ladder.",
+    "Shuffle through each box.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

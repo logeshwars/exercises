@@ -1,0 +1,15 @@
+{
+  "name": "Neck Rolls",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "neck"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit or stand tall.",
+    "Slowly roll your head in a half circle from one shoulder to the other.",
+    "Repeat in both directions."
+  ],
+  "category": "stretching"
+}

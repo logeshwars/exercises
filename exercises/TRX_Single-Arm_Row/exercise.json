@@ -1,0 +1,20 @@
+{
+  "name": "TRX Single-Arm Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hold a single strap.",
+    "Pull your chest towards your hand.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Smith Machine Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold the Smith bar.",
+    "Shrug up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

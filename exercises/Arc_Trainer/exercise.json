@@ -1,0 +1,20 @@
+{
+  "name": "Arc Trainer",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "instructions": [
+    "Step onto the machine.",
+    "Stride in a smooth arc.",
+    "Keep a steady pace."
+  ],
+  "category": "cardio"
+}

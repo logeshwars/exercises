@@ -1,0 +1,19 @@
+{
+  "name": "Barbell Box Step-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Place the bar on your back.",
+    "Step up onto a box.",
+    "Step down."
+  ],
+  "category": "strength"
+}

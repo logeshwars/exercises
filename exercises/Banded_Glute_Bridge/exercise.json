@@ -1,0 +1,20 @@
+{
+  "name": "Banded Glute Bridge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Place a band just above your knees and lie on your back with knees bent.",
+    "Push your knees out against the band and lift your hips.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

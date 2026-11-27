@@ -1,0 +1,20 @@
+{
+  "name": "Pull-Up Isometric Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Pull up to the top.",
+    "Hold.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

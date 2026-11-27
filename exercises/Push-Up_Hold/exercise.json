@@ -1,0 +1,21 @@
+{
+  "name": "Push-Up Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Lower into the bottom of a push-up with your chest just above the floor.",
+    "Keep your body straight and elbows close to your sides.",
+    "Hold for the set time, then press up or lower to the floor."
+  ],
+  "category": "strength"
+}

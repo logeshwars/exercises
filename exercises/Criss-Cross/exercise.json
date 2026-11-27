@@ -1,0 +1,17 @@
+{
+  "name": "Criss-Cross",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie with your hands behind your head.",
+    "Rotate your elbow towards the opposite knee.",
+    "Switch sides."
+  ],
+  "category": "strength"
+}

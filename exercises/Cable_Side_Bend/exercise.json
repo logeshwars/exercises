@@ -1,0 +1,17 @@
+{
+  "name": "Cable Side Bend",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a low cable at your side.",
+    "Bend away from the cable.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

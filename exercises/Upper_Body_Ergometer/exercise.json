@@ -1,0 +1,20 @@
+{
+  "name": "Upper Body Ergometer",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "biceps"
+  ],
+  "instructions": [
+    "Sit at the arm bike.",
+    "Pedal with your arms.",
+    "Keep a steady pace."
+  ],
+  "category": "cardio"
+}

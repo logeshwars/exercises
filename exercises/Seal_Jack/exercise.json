@@ -1,0 +1,20 @@
+{
+  "name": "Seal Jack",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "calves"
+  ],
+  "instructions": [
+    "Stand with arms out in front at shoulder height.",
+    "Jump your feet wide while opening your arms to the sides.",
+    "Jump back, clapping your hands in front."
+  ],
+  "category": "cardio"
+}

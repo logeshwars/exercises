@@ -1,0 +1,21 @@
+{
+  "name": "Incline Treadmill Walk",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set the treadmill to an incline.",
+    "Walk at a steady pace without holding the rails.",
+    "Keep going for the set time."
+  ],
+  "category": "cardio"
+}

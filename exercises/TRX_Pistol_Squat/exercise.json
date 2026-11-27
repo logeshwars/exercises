@@ -1,0 +1,19 @@
+{
+  "name": "TRX Pistol Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the straps.",
+    "Squat on one leg.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

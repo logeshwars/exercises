@@ -1,0 +1,19 @@
+{
+  "name": "Band Hip Abduction Seated",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Sit on a chair with a band above your knees.",
+    "Push your knees out against the band.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cable Rope Overhead Extension Kneeling",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Kneel facing away from a cable.",
+    "Extend the rope overhead.",
+    "Return."
+  ],
+  "category": "strength"
+}

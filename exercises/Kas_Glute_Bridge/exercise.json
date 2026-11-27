@@ -1,0 +1,19 @@
+{
+  "name": "Kas Glute Bridge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set up like a hip thrust but use a shorter range.",
+    "Lift your hips to the top.",
+    "Lower partway and repeat."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Jab Cross Combo",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "instructions": [
+    "Throw a jab, then a cross.",
+    "Return to guard.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

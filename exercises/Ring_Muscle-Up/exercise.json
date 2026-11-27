@@ -1,0 +1,20 @@
+{
+  "name": "Ring Muscle-Up",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "chest"
+  ],
+  "instructions": [
+    "Pull up on the rings, transition over, and press out.",
+    "Lower with control.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

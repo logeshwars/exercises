@@ -1,0 +1,20 @@
+{
+  "name": "Rucking",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "traps"
+  ],
+  "instructions": [
+    "Wear a weighted backpack.",
+    "Walk at a brisk pace.",
+    "Keep going for the set time."
+  ],
+  "category": "cardio"
+}

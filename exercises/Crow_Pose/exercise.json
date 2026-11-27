@@ -1,0 +1,20 @@
+{
+  "name": "Crow Pose",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Squat with your hands on the floor.",
+    "Place your knees on the backs of your upper arms.",
+    "Lean forward until your feet lift, and hold."
+  ],
+  "category": "strength"
+}

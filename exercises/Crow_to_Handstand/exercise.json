@@ -1,0 +1,20 @@
+{
+  "name": "Crow to Handstand",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "instructions": [
+    "Start in crow pose.",
+    "Press up into a handstand.",
+    "Lower back down."
+  ],
+  "category": "strength"
+}

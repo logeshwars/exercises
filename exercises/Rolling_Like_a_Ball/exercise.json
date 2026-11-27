@@ -1,0 +1,19 @@
+{
+  "name": "Rolling Like a Ball",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Sit balanced with your knees hugged in.",
+    "Roll back to your shoulder blades.",
+    "Roll back up to balance."
+  ],
+  "category": "strength"
+}

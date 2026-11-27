@@ -1,0 +1,19 @@
+{
+  "name": "Explosive Pull-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Pull up as fast as possible.",
+    "Try to bring your chest to the bar.",
+    "Lower with control."
+  ],
+  "category": "plyometrics"
+}

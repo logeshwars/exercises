@@ -1,0 +1,21 @@
+{
+  "name": "Burpee with Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Squat and place your hands on the floor.",
+    "Jump your feet back, do a push-up, then jump your feet forward.",
+    "Jump up with your arms overhead."
+  ],
+  "category": "cardio"
+}

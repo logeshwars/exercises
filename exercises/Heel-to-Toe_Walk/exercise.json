@@ -1,0 +1,19 @@
+{
+  "name": "Heel-to-Toe Walk",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Walk in a straight line.",
+    "Place each heel right in front of the other foot's toes.",
+    "Hold a support if needed."
+  ],
+  "category": "strength"
+}

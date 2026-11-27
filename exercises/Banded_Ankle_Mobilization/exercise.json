@@ -1,0 +1,15 @@
+{
+  "name": "Banded Ankle Mobilization",
+  "level": "beginner",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anchor a band low and loop it around the front of your ankle.",
+    "Drive your knee forward over your toes.",
+    "Return and repeat."
+  ],
+  "category": "stretching"
+}

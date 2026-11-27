@@ -1,0 +1,17 @@
+{
+  "name": "McGill Curl-Up",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie with one knee bent and your hands under your lower back.",
+    "Lift your head and shoulders slightly.",
+    "Hold, then lower."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Shoulder CARs",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand tall.",
+    "Move one arm slowly through its full circle.",
+    "Repeat in both directions, then switch arms."
+  ],
+  "category": "stretching"
+}

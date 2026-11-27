@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell JM Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": [
+    "Lie on a bench holding dumbbells over your chest.",
+    "Lower them towards your chin by bending your elbows forward.",
+    "Press back up."
+  ],
+  "category": "strength"
+}

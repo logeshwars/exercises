@@ -1,0 +1,19 @@
+{
+  "name": "Cable Rear Delt Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Set a cable at chest height and pull with elbows high.",
+    "Pull until your elbows are in line with your shoulders.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

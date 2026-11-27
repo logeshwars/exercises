@@ -1,0 +1,19 @@
+{
+  "name": "Aqua Jogging",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Jog in deep water.",
+    "Keep your body upright.",
+    "Keep going for the set time."
+  ],
+  "category": "cardio"
+}

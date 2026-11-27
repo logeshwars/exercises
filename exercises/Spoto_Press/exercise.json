@@ -1,0 +1,20 @@
+{
+  "name": "Spoto Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lower the bar to just above your chest.",
+    "Pause there without touching your chest.",
+    "Press back up."
+  ],
+  "category": "powerlifting"
+}

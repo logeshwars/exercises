@@ -1,0 +1,17 @@
+{
+  "name": "Seated Calf Raise Machine Single-Leg",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit in the calf raise machine.",
+    "Raise with one leg.",
+    "Lower slowly and switch legs."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Warrior III Pose",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Stand on one leg and hinge forward.",
+    "Lift the other leg back until your body forms a T.",
+    "Hold, then switch sides."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Landmine Hip Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Rest your back on a bench with the bar across your hips.",
+    "Thrust up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

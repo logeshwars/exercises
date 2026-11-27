@@ -1,0 +1,20 @@
+{
+  "name": "V-Sit Hold",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Push off your hands and lift your legs high.",
+    "Hold a V shape.",
+    "Lower."
+  ],
+  "category": "strength"
+}

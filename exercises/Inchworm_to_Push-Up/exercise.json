@@ -1,0 +1,21 @@
+{
+  "name": "Inchworm to Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand and fold forward to put your hands on the floor.",
+    "Walk your hands out to a plank and do a push-up.",
+    "Walk your hands back and stand up."
+  ],
+  "category": "cardio"
+}

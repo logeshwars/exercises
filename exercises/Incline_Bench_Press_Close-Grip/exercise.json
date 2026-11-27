@@ -1,0 +1,20 @@
+{
+  "name": "Incline Bench Press Close-Grip",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip the bar close on an incline bench.",
+    "Lower it to your chest.",
+    "Press up."
+  ],
+  "category": "strength"
+}

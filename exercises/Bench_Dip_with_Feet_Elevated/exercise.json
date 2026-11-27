@@ -1,0 +1,20 @@
+{
+  "name": "Bench Dip with Feet Elevated",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place your hands on a bench behind you and your feet on another bench.",
+    "Bend your elbows to lower your hips.",
+    "Press back up to straight arms."
+  ],
+  "category": "strength"
+}

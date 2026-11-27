@@ -1,0 +1,20 @@
+{
+  "name": "Badminton",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "calves"
+  ],
+  "instructions": [
+    "Play a game or rally.",
+    "Move to the shuttle.",
+    "Rest between games."
+  ],
+  "category": "cardio"
+}

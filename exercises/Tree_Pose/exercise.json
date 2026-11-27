@@ -1,0 +1,18 @@
+{
+  "name": "Tree Pose",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "abductors"
+  ],
+  "instructions": [
+    "Stand on one leg.",
+    "Place the other foot on your inner calf or thigh, not on the knee.",
+    "Hold, then switch sides."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Landmine Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the end of the bar at your chest.",
+    "Squat down.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Chin-Up Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "forearms"
+  ],
+  "instructions": [
+    "Pull up on a bar with palms facing you until your chin is over the bar.",
+    "Hold that top position.",
+    "Lower slowly when the time is up."
+  ],
+  "category": "strength"
+}

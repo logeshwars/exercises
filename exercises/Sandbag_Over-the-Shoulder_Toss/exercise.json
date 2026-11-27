@@ -1,0 +1,20 @@
+{
+  "name": "Sandbag Over-the-Shoulder Toss",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Lift the sandbag from the floor.",
+    "Toss it over your shoulder.",
+    "Turn and repeat."
+  ],
+  "category": "strongman"
+}

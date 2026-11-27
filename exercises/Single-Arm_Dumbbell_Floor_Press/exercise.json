@@ -1,0 +1,20 @@
+{
+  "name": "Single-Arm Dumbbell Floor Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on the floor with one dumbbell above your shoulder.",
+    "Lower it until your upper arm touches the floor.",
+    "Press it back up, keeping your torso still, then switch sides."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Bow Pose",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie face down and grab your ankles.",
+    "Kick your feet into your hands to lift your chest and thighs.",
+    "Hold."
+  ],
+  "category": "stretching"
+}

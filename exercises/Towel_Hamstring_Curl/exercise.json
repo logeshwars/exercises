@@ -1,0 +1,19 @@
+{
+  "name": "Towel Hamstring Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your back with your heels on a towel on a smooth floor.",
+    "Lift your hips and pull the towel towards you with your heels.",
+    "Slide back out slowly."
+  ],
+  "category": "strength"
+}

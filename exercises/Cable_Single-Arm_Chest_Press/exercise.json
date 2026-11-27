@@ -1,0 +1,20 @@
+{
+  "name": "Cable Single-Arm Chest Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Face away from a cable.",
+    "Press one handle forward.",
+    "Return."
+  ],
+  "category": "strength"
+}

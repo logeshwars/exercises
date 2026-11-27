@@ -1,0 +1,20 @@
+{
+  "name": "TRX Power Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps"
+  ],
+  "instructions": [
+    "Hold one strap.",
+    "Rotate and pull your chest up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

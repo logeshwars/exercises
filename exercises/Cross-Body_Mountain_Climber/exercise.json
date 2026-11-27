@@ -1,0 +1,20 @@
+{
+  "name": "Cross-Body Mountain Climber",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Start in a high plank.",
+    "Drive one knee towards the opposite elbow.",
+    "Switch legs quickly."
+  ],
+  "category": "cardio"
+}

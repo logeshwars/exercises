@@ -1,0 +1,17 @@
+{
+  "name": "Band Leg Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit on a chair with a band anchored behind and looped around one ankle.",
+    "Straighten your knee.",
+    "Lower slowly and switch legs after the set."
+  ],
+  "category": "strength"
+}

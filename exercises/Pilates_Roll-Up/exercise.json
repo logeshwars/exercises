@@ -1,0 +1,19 @@
+{
+  "name": "Pilates Roll-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lie flat with your arms overhead.",
+    "Roll up slowly to sit and reach for your toes.",
+    "Roll back down slowly."
+  ],
+  "category": "strength"
+}

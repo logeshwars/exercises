@@ -1,0 +1,17 @@
+{
+  "name": "Cable Triceps Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hinge forward holding a low cable handle with elbow bent.",
+    "Straighten your arm back.",
+    "Return slowly and switch sides."
+  ],
+  "category": "strength"
+}

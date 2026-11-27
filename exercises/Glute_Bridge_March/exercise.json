@@ -1,0 +1,20 @@
+{
+  "name": "Glute Bridge March",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": [
+    "Lie on your back, knees bent, and lift your hips into a bridge.",
+    "Lift one knee towards your chest while keeping your hips level.",
+    "Lower it and alternate legs."
+  ],
+  "category": "strength"
+}

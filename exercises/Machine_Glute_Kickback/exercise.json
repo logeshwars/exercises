@@ -1,0 +1,19 @@
+{
+  "name": "Machine Glute Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set up in the glute kickback machine with one foot on the platform.",
+    "Push the platform back until your hip is fully extended.",
+    "Return slowly and switch legs after the set."
+  ],
+  "category": "strength"
+}

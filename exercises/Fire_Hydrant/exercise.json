@@ -1,0 +1,19 @@
+{
+  "name": "Fire Hydrant",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Start on hands and knees.",
+    "Lift one bent leg out to the side to hip height without shifting your weight.",
+    "Lower slowly and switch sides after the set."
+  ],
+  "category": "strength"
+}

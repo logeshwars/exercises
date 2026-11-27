@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Bottoms-Up Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "triceps"
+  ],
+  "instructions": [
+    "Hold a kettlebell upside down at your shoulder.",
+    "Press it overhead while keeping it balanced.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

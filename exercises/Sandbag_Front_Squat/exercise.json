@@ -1,0 +1,20 @@
+{
+  "name": "Sandbag Front Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Rest the sandbag on your shoulders in front.",
+    "Squat.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

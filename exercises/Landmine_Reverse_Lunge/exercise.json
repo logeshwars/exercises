@@ -1,0 +1,19 @@
+{
+  "name": "Landmine Reverse Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the bar at your chest.",
+    "Step back into a lunge.",
+    "Return."
+  ],
+  "category": "strength"
+}

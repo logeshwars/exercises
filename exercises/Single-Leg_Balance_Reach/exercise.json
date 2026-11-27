@@ -1,0 +1,20 @@
+{
+  "name": "Single-Leg Balance Reach",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand on one leg.",
+    "Reach forward with your hands.",
+    "Return."
+  ],
+  "category": "strength"
+}

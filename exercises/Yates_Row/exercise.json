@@ -1,0 +1,20 @@
+{
+  "name": "Yates Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": [
+    "Hold a barbell with an underhand grip and lean forward about 30 degrees.",
+    "Row the bar to your lower stomach.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

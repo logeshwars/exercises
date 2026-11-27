@@ -1,0 +1,20 @@
+{
+  "name": "Cone Shuttle Run",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Sprint to a cone.",
+    "Touch it and sprint back.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Hollow Body Rock",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your back and lift your shoulders and legs into a hollow hold, arms overhead.",
+    "Rock gently forward and back, keeping the shape.",
+    "Keep your lower back pressed down."
+  ],
+  "category": "strength"
+}

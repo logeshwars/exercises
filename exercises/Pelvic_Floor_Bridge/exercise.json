@@ -1,0 +1,19 @@
+{
+  "name": "Pelvic Floor Bridge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Lie with your knees bent.",
+    "Engage your pelvic floor and lift your hips.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

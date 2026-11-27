@@ -1,0 +1,20 @@
+{
+  "name": "Zumba",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "abdominals"
+  ],
+  "instructions": [
+    "Follow a Zumba class.",
+    "Keep moving to the music.",
+    "Keep going for the set time."
+  ],
+  "category": "cardio"
+}

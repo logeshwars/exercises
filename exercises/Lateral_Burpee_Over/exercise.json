@@ -1,0 +1,20 @@
+{
+  "name": "Lateral Burpee Over",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "calves"
+  ],
+  "instructions": [
+    "Do a burpee.",
+    "Jump sideways over a line or object.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

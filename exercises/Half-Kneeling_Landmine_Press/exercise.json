@@ -1,0 +1,20 @@
+{
+  "name": "Half-Kneeling Landmine Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "abdominals"
+  ],
+  "instructions": [
+    "Kneel holding the bar at your shoulder.",
+    "Press it up and forward.",
+    "Lower."
+  ],
+  "category": "strength"
+}

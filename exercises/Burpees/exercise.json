@@ -1,0 +1,22 @@
+{
+  "name": "Burpee",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Squat down and place your hands on the floor.",
+    "Jump your feet back to a plank, lower your chest to the floor, then press up.",
+    "Jump your feet to your hands and jump up with arms overhead."
+  ],
+  "category": "cardio"
+}

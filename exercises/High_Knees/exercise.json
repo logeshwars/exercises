@@ -1,0 +1,20 @@
+{
+  "name": "High Knees",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand tall.",
+    "Run in place, driving your knees to hip height.",
+    "Pump your arms and stay on the balls of your feet."
+  ],
+  "category": "cardio"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Barbell Seal Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": [
+    "Lie face down on a high bench with a barbell below.",
+    "Row the bar up to the bench.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

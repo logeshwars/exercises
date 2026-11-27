@@ -1,0 +1,20 @@
+{
+  "name": "TRX Mountain Climber",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Feet in the straps in a plank.",
+    "Drive your knees in alternately.",
+    "Keep the pace up."
+  ],
+  "category": "cardio"
+}

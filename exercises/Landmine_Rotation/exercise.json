@@ -1,0 +1,19 @@
+{
+  "name": "Landmine Rotation",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold the end of a landmine bar overhead.",
+    "Rotate it down to one hip.",
+    "Bring it back over and down to the other hip."
+  ],
+  "category": "strength"
+}

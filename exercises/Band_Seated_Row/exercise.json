@@ -1,0 +1,20 @@
+{
+  "name": "Band Seated Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Sit with legs straight and loop a band around your feet.",
+    "Hold the ends and pull your hands to your waist, squeezing your shoulder blades.",
+    "Return slowly to straight arms."
+  ],
+  "category": "strength"
+}

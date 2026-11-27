@@ -1,0 +1,19 @@
+{
+  "name": "Windshield Wiper",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Lie on your back with arms out and legs raised straight up.",
+    "Lower both legs together to one side without letting your shoulders lift.",
+    "Bring them back up and lower to the other side."
+  ],
+  "category": "strength"
+}

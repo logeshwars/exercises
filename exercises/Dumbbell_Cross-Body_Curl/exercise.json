@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Cross-Body Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand with dumbbells at your sides.",
+    "Curl one dumbbell up across your body towards the opposite shoulder.",
+    "Lower and alternate arms."
+  ],
+  "category": "strength"
+}

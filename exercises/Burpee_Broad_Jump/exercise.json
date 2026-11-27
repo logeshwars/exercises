@@ -1,0 +1,21 @@
+{
+  "name": "Burpee Broad Jump",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Do a burpee.",
+    "Jump forward as far as you can.",
+    "Repeat."
+  ],
+  "category": "plyometrics"
+}

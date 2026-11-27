@@ -1,0 +1,17 @@
+{
+  "name": "Dolphin Pose",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Start on your forearms and knees.",
+    "Lift your hips into a downward dog on your forearms.",
+    "Hold."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Medicine Ball V-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold the ball overhead.",
+    "Bring your arms and legs together into a V.",
+    "Lower."
+  ],
+  "category": "strength"
+}

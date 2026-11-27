@@ -1,0 +1,20 @@
+{
+  "name": "Pilates Leg Pull Front",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold a high plank.",
+    "Lift one leg.",
+    "Lower and switch."
+  ],
+  "category": "strength"
+}

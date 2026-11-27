@@ -1,0 +1,17 @@
+{
+  "name": "Water Bottle Lateral Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a water bottle in each hand.",
+    "Raise your arms out to the sides.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

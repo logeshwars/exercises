@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Incline Fly to Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Fly the dumbbells open on an incline.",
+    "Bring them together and press up.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

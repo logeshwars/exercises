@@ -1,0 +1,17 @@
+{
+  "name": "Decline Weighted Sit-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on a decline bench holding a plate at your chest.",
+    "Sit up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

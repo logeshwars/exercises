@@ -1,0 +1,20 @@
+{
+  "name": "Sandbag Drag",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the sandbag strap.",
+    "Drag it backward or forward.",
+    "Keep your hips low."
+  ],
+  "category": "strength"
+}

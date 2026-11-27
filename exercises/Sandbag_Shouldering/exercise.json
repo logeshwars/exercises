@@ -1,0 +1,21 @@
+{
+  "name": "Sandbag Shouldering",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "traps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Lift the sandbag to your chest.",
+    "Hoist it onto one shoulder.",
+    "Lower and switch sides."
+  ],
+  "category": "strongman"
+}

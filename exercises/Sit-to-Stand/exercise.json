@@ -1,0 +1,19 @@
+{
+  "name": "Sit-to-Stand",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Sit on a chair.",
+    "Stand up without using your hands.",
+    "Sit back down slowly."
+  ],
+  "category": "strength"
+}

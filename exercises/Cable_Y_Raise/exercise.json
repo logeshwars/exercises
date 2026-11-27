@@ -1,0 +1,19 @@
+{
+  "name": "Cable Y Raise",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Hold low cables crossed in front of you.",
+    "Raise your arms up and out into a Y.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

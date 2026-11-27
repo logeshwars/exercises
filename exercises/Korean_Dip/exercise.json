@@ -1,0 +1,20 @@
+{
+  "name": "Korean Dip",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold a bar behind you.",
+    "Dip down.",
+    "Press back up."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Jefferson Curl",
+  "level": "intermediate",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Stand on a box holding a light weight.",
+    "Roll your spine down slowly, one segment at a time.",
+    "Roll back up slowly."
+  ],
+  "category": "stretching"
+}

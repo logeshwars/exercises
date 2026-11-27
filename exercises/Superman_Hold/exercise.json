@@ -1,0 +1,19 @@
+{
+  "name": "Superman Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie face down with arms overhead.",
+    "Lift your arms, chest and legs off the floor.",
+    "Hold."
+  ],
+  "category": "strength"
+}

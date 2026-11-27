@@ -1,0 +1,20 @@
+{
+  "name": "Half-Kneeling Dumbbell Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Kneel on one knee, holding a dumbbell at the shoulder on the side of the down knee.",
+    "Squeeze your glute and press the dumbbell straight overhead.",
+    "Lower slowly, finish the set and switch sides."
+  ],
+  "category": "strength"
+}

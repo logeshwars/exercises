@@ -1,0 +1,19 @@
+{
+  "name": "Machine Lateral Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Sit in the machine with pads against your outer arms.",
+    "Raise your arms out to the sides.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

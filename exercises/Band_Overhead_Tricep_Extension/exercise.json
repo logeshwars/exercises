@@ -1,0 +1,17 @@
+{
+  "name": "Band Overhead Tricep Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand on a band and hold the other end behind your head with elbows bent.",
+    "Straighten your arms overhead.",
+    "Lower slowly behind your head."
+  ],
+  "category": "strength"
+}

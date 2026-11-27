@@ -1,0 +1,20 @@
+{
+  "name": "Landmine Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": [
+    "Straddle a landmine bar and hold it under the plates.",
+    "Hinge forward with a flat back.",
+    "Row the bar to your chest, then lower."
+  ],
+  "category": "strength"
+}

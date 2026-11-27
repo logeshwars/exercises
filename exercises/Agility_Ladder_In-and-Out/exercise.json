@@ -1,0 +1,19 @@
+{
+  "name": "Agility Ladder In-and-Out",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Step both feet into the box.",
+    "Step both out to the sides.",
+    "Repeat down the ladder."
+  ],
+  "category": "cardio"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Plank to Downward Dog",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Start in a high plank.",
+    "Push your hips up and back into downward dog.",
+    "Return to the plank."
+  ],
+  "category": "strength"
+}

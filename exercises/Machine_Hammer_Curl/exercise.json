@@ -1,0 +1,19 @@
+{
+  "name": "Machine Hammer Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Sit in the curl machine with neutral-grip handles.",
+    "Curl up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

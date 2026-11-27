@@ -1,0 +1,19 @@
+{
+  "name": "Goblet Reverse Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold a dumbbell at your chest.",
+    "Step back into a lunge.",
+    "Return."
+  ],
+  "category": "strength"
+}

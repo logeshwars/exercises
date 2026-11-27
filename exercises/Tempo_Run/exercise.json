@@ -1,0 +1,20 @@
+{
+  "name": "Tempo Run",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Run at a comfortably hard pace.",
+    "Hold it steady.",
+    "Cool down."
+  ],
+  "category": "cardio"
+}

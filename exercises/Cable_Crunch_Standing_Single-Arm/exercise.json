@@ -1,0 +1,17 @@
+{
+  "name": "Cable Crunch Standing Single-Arm",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a high cable with one hand.",
+    "Crunch to the side.",
+    "Return."
+  ],
+  "category": "strength"
+}

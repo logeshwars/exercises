@@ -1,0 +1,17 @@
+{
+  "name": "Tibialis Raise Machine",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit in the machine.",
+    "Lift your toes towards your shins.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

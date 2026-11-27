@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Deficit Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip two dumbbells on the floor.",
+    "Lower below your hands.",
+    "Press up."
+  ],
+  "category": "strength"
+}

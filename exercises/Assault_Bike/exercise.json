@@ -1,0 +1,21 @@
+{
+  "name": "Assault Bike",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders",
+    "glutes"
+  ],
+  "instructions": [
+    "Sit on the fan bike and grip the moving handles.",
+    "Pedal while pushing and pulling the handles in rhythm.",
+    "Go hard for the work interval, then ease off to recover."
+  ],
+  "category": "cardio"
+}

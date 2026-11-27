@@ -1,0 +1,19 @@
+{
+  "name": "Ring Triceps Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Lean forward on the rings.",
+    "Bend your elbows to lower your head.",
+    "Push back."
+  ],
+  "category": "strength"
+}

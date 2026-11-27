@@ -1,0 +1,20 @@
+{
+  "name": "Towel Hang",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": [
+    "Drape two towels over a pull-up bar and grip one in each hand.",
+    "Hang with your arms straight.",
+    "Hold for the set time."
+  ],
+  "category": "strength"
+}

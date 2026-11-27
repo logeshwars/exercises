@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Romanian Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Hold a kettlebell in front of your thighs.",
+    "Hinge at the hips with a flat back.",
+    "Stand back up."
+  ],
+  "category": "strength"
+}

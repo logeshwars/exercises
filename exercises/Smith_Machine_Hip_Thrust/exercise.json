@@ -1,0 +1,19 @@
+{
+  "name": "Smith Machine Hip Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Set up under the Smith bar with your back on a bench.",
+    "Thrust your hips up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

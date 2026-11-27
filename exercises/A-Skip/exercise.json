@@ -1,0 +1,20 @@
+{
+  "name": "A-Skip",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Skip while driving your knee up.",
+    "Strike the ground under your hips.",
+    "Alternate legs."
+  ],
+  "category": "cardio"
+}

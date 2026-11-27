@@ -1,0 +1,19 @@
+{
+  "name": "Cable Lateral Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Stand side-on to a low cable and hold the handle with your far hand.",
+    "Raise your arm out to the side until it is level with your shoulder.",
+    "Lower slowly and switch sides after the set."
+  ],
+  "category": "strength"
+}

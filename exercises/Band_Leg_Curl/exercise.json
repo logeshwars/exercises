@@ -1,0 +1,19 @@
+{
+  "name": "Band Leg Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves"
+  ],
+  "instructions": [
+    "Anchor a band low and loop it around one ankle while lying face down.",
+    "Curl your heel towards your glutes.",
+    "Lower slowly and switch legs after the set."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Trap Bar Romanian Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Stand inside the trap bar.",
+    "Hinge with your knees slightly bent.",
+    "Stand back up."
+  ],
+  "category": "strength"
+}

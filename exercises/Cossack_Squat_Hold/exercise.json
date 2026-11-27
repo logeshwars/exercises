@@ -1,0 +1,17 @@
+{
+  "name": "Cossack Squat Hold",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Stand wide and shift into one hip.",
+    "Squat deep while the other leg stays straight.",
+    "Hold, then switch sides."
+  ],
+  "category": "stretching"
+}

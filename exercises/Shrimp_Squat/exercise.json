@@ -1,0 +1,19 @@
+{
+  "name": "Shrimp Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Stand on one leg and hold the other foot behind you.",
+    "Lower until the back knee touches the floor.",
+    "Stand back up on the working leg."
+  ],
+  "category": "strength"
+}

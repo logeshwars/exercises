@@ -1,0 +1,20 @@
+{
+  "name": "TRX Inverted Row Feet Elevated",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Feet on a box, hold the straps.",
+    "Row up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

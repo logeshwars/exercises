@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Around the World",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "forearms"
+  ],
+  "instructions": [
+    "Pass a kettlebell around your waist from hand to hand.",
+    "Keep your torso still.",
+    "Switch direction."
+  ],
+  "category": "strength"
+}

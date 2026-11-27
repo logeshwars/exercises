@@ -1,0 +1,20 @@
+{
+  "name": "Stair Climbing",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves"
+  ],
+  "instructions": [
+    "Find a flight of stairs.",
+    "Walk or run up, placing your whole foot on each step.",
+    "Walk down carefully and repeat."
+  ],
+  "category": "cardio"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Side Plank",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "abductors",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on your side and prop yourself up on your forearm, elbow under shoulder.",
+    "Lift your hips so your body is straight from head to feet.",
+    "Hold, then switch sides."
+  ],
+  "category": "strength"
+}

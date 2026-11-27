@@ -1,0 +1,20 @@
+{
+  "name": "Chaturanga",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "From a plank, shift slightly forward.",
+    "Lower halfway with your elbows hugging your sides.",
+    "Hold or press back up."
+  ],
+  "category": "strength"
+}

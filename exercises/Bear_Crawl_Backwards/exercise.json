@@ -1,0 +1,20 @@
+{
+  "name": "Bear Crawl Backwards",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Get into a bear crawl.",
+    "Crawl backward.",
+    "Keep your hips low."
+  ],
+  "category": "cardio"
+}

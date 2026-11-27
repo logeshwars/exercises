@@ -1,0 +1,20 @@
+{
+  "name": "Hindu Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Start in a downward dog with hips high and hands and feet wide.",
+    "Swoop your chest down and forward close to the floor, ending with arms straight and chest up.",
+    "Push your hips back up to the start in one smooth motion."
+  ],
+  "category": "strength"
+}

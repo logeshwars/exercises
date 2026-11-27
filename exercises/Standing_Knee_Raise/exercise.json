@@ -1,0 +1,19 @@
+{
+  "name": "Standing Knee Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Stand tall.",
+    "Raise one knee to hip height.",
+    "Lower and alternate."
+  ],
+  "category": "strength"
+}

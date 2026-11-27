@@ -1,0 +1,21 @@
+{
+  "name": "Pendlay Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "lower back"
+  ],
+  "instructions": [
+    "Hinge until your torso is parallel to the floor, bar on the floor.",
+    "Explosively row the bar to your lower chest.",
+    "Return it to the floor and reset before each rep."
+  ],
+  "category": "strength"
+}

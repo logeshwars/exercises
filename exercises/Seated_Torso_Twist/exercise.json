@@ -1,0 +1,19 @@
+{
+  "name": "Seated Torso Twist",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Sit tall.",
+    "Rotate your torso to one side.",
+    "Rotate to the other side."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Ankle CARs",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit or stand with one foot lifted.",
+    "Slowly circle your ankle as wide as you can.",
+    "Repeat in both directions."
+  ],
+  "category": "stretching"
+}

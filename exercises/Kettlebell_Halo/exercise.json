@@ -1,0 +1,19 @@
+{
+  "name": "Kettlebell Halo",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Hold a kettlebell upside down by the horns.",
+    "Circle it around your head.",
+    "Reverse direction."
+  ],
+  "category": "strength"
+}

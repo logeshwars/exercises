@@ -1,0 +1,21 @@
+{
+  "name": "Kettlebell Swing",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand with feet shoulder-width apart and a kettlebell in both hands.",
+    "Hinge and swing it back between your legs.",
+    "Snap your hips forward to swing it to chest height, then let it fall back into the next swing."
+  ],
+  "category": "strength"
+}

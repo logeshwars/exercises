@@ -1,0 +1,19 @@
+{
+  "name": "Roman Chair Side Bend",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Lie on your side on the Roman chair.",
+    "Bend down at the waist.",
+    "Lift back up."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Dead Bug",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on your back holding a dumbbell over your chest, knees up at 90 degrees.",
+    "Lower one leg towards the floor while keeping the dumbbell still.",
+    "Return and switch legs."
+  ],
+  "category": "strength"
+}

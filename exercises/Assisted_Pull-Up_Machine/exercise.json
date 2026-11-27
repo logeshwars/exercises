@@ -1,0 +1,20 @@
+{
+  "name": "Assisted Pull-Up Machine",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Kneel on the pad and grip the handles.",
+    "Pull up until your chin passes the handles.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

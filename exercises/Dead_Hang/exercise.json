@@ -1,0 +1,20 @@
+{
+  "name": "Dead Hang",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip a pull-up bar with hands shoulder-width apart.",
+    "Hang with arms straight and shoulders gently engaged.",
+    "Hold for the set time and breathe steadily."
+  ],
+  "category": "strength"
+}

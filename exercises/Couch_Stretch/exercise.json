@@ -1,0 +1,17 @@
+{
+  "name": "Couch Stretch",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Kneel with your back foot up against a wall or couch.",
+    "Bring the other foot forward and lift your chest.",
+    "Hold, then switch sides."
+  ],
+  "category": "stretching"
+}

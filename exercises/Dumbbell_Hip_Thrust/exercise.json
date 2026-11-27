@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Hip Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Sit with your upper back against a bench and a dumbbell on your hips.",
+    "Drive through your heels to lift your hips until your body is straight from shoulders to knees.",
+    "Squeeze your glutes at the top, then lower."
+  ],
+  "category": "strength"
+}

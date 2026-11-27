@@ -1,0 +1,17 @@
+{
+  "name": "Rice Bucket Grip",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Bury your hands in a bucket of rice.",
+    "Open, close and twist your hands.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

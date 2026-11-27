@@ -1,0 +1,20 @@
+{
+  "name": "Curtsy Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abductors"
+  ],
+  "instructions": [
+    "Stand holding dumbbells at your sides.",
+    "Step one leg diagonally behind the other and lower into a lunge.",
+    "Push back to standing and alternate sides."
+  ],
+  "category": "strength"
+}

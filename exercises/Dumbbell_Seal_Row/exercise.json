@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Seal Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Lie face down on a raised flat bench holding a dumbbell in each hand.",
+    "Row both dumbbells up until your elbows pass your torso.",
+    "Lower slowly to straight arms."
+  ],
+  "category": "strength"
+}

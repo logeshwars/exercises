@@ -1,0 +1,17 @@
+{
+  "name": "Wall Slide",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Stand with your back and arms against a wall.",
+    "Slide your arms up overhead.",
+    "Slide them back down."
+  ],
+  "category": "stretching"
+}

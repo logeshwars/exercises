@@ -1,0 +1,19 @@
+{
+  "name": "Medicine Ball Side Slam",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Lift the ball overhead.",
+    "Slam it to one side.",
+    "Pick it up and alternate."
+  ],
+  "category": "plyometrics"
+}

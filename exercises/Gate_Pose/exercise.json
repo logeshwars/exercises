@@ -1,0 +1,17 @@
+{
+  "name": "Gate Pose",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Kneel and extend one leg out to the side.",
+    "Lean over the straight leg.",
+    "Hold, then switch sides."
+  ],
+  "category": "stretching"
+}

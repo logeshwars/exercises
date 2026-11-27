@@ -1,0 +1,20 @@
+{
+  "name": "Human Flag Hold",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip a vertical pole with hands wide.",
+    "Push with the bottom arm and pull with the top to lift your body sideways.",
+    "Hold."
+  ],
+  "category": "strength"
+}

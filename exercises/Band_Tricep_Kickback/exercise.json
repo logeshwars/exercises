@@ -1,0 +1,17 @@
+{
+  "name": "Band Tricep Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Anchor a band low, hinge forward and hold it with your elbow bent at your side.",
+    "Straighten your arm back.",
+    "Return slowly, finish the set and switch arms."
+  ],
+  "category": "strength"
+}

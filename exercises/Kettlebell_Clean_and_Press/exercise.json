@@ -1,0 +1,21 @@
+{
+  "name": "Kettlebell Clean and Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "triceps"
+  ],
+  "instructions": [
+    "Clean a kettlebell to your shoulder.",
+    "Press it overhead.",
+    "Lower it back down."
+  ],
+  "category": "strength"
+}

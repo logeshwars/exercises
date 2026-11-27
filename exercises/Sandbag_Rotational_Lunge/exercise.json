@@ -1,0 +1,20 @@
+{
+  "name": "Sandbag Rotational Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hold the sandbag at your chest.",
+    "Lunge and rotate towards your front leg.",
+    "Return."
+  ],
+  "category": "strength"
+}

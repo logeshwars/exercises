@@ -1,0 +1,20 @@
+{
+  "name": "Jump Rope Double Under",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "forearms"
+  ],
+  "instructions": [
+    "Jump rope with a slightly higher jump.",
+    "Spin the rope twice under your feet in one jump.",
+    "Land softly and keep a steady rhythm."
+  ],
+  "category": "cardio"
+}

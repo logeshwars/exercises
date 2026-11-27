@@ -1,0 +1,19 @@
+{
+  "name": "Plank Shoulder Tap",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Start in a high plank with feet hip-width apart.",
+    "Lift one hand to tap the opposite shoulder without twisting your hips.",
+    "Place it back and alternate sides."
+  ],
+  "category": "strength"
+}

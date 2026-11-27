@@ -1,0 +1,20 @@
+{
+  "name": "Kickboxing Roundhouse Kick",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "adductors"
+  ],
+  "instructions": [
+    "Pivot your standing foot.",
+    "Swing your leg in an arc.",
+    "Return."
+  ],
+  "category": "cardio"
+}

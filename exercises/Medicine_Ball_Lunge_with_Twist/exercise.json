@@ -1,0 +1,20 @@
+{
+  "name": "Medicine Ball Lunge with Twist",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes"
+  ],
+  "instructions": [
+    "Hold the ball at your chest.",
+    "Lunge and twist over your front leg.",
+    "Return."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Swing to Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Swing the kettlebell.",
+    "At the top, catch it and squat.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

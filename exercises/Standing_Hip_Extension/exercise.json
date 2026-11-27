@@ -1,0 +1,19 @@
+{
+  "name": "Standing Hip Extension",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold a support.",
+    "Move one leg straight back.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

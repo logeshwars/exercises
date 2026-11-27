@@ -1,0 +1,19 @@
+{
+  "name": "Pin Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Set the safety pins at your bottom position.",
+    "Lower to the pins and pause.",
+    "Drive back up."
+  ],
+  "category": "powerlifting"
+}

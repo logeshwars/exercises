@@ -1,0 +1,21 @@
+{
+  "name": "Kettlebell Swing American",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "shoulders",
+    "lower back"
+  ],
+  "instructions": [
+    "Stand with feet wide holding a kettlebell.",
+    "Hinge and swing it between your legs.",
+    "Drive your hips forward to swing it all the way overhead."
+  ],
+  "category": "strength"
+}

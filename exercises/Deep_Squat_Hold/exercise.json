@@ -1,0 +1,18 @@
+{
+  "name": "Deep Squat Hold",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "adductors"
+  ],
+  "instructions": [
+    "Stand with feet shoulder-width apart.",
+    "Squat as deep as you can with heels down.",
+    "Hold, using your elbows to push your knees out."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Paused Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lift the bar from the floor.",
+    "Pause just below the knees for one to two seconds.",
+    "Finish the lift."
+  ],
+  "category": "powerlifting"
+}

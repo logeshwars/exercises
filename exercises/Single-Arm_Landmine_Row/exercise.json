@@ -1,0 +1,20 @@
+{
+  "name": "Single-Arm Landmine Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps"
+  ],
+  "instructions": [
+    "Stand side-on to the landmine bar and hold its end in one hand.",
+    "Hinge forward and row the bar to your hip.",
+    "Lower slowly and switch sides."
+  ],
+  "category": "strength"
+}

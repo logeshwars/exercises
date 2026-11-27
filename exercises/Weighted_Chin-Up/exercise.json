@@ -1,0 +1,19 @@
+{
+  "name": "Weighted Chin-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Attach weight with a dip belt.",
+    "Pull up with palms facing you.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

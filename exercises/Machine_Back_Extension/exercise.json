@@ -1,0 +1,19 @@
+{
+  "name": "Machine Back Extension",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Sit in the machine with the pad on your upper back.",
+    "Extend back until your body is straight.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

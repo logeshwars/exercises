@@ -1,0 +1,20 @@
+{
+  "name": "Wide-Grip Seated Cable Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "biceps"
+  ],
+  "instructions": [
+    "Sit at a row station with a wide bar.",
+    "Pull the bar to your upper waist with elbows out.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

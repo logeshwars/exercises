@@ -1,0 +1,19 @@
+{
+  "name": "Glute Bridge Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lie on your back, knees bent, feet flat.",
+    "Lift your hips until your body is straight from shoulders to knees.",
+    "Squeeze your glutes and hold."
+  ],
+  "category": "strength"
+}

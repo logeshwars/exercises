@@ -1,0 +1,17 @@
+{
+  "name": "Pilates Hundred",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your back with legs raised and head lifted.",
+    "Pump your arms up and down.",
+    "Breathe in for 5 pumps and out for 5, 10 times."
+  ],
+  "category": "strength"
+}

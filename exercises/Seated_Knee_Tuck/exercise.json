@@ -1,0 +1,17 @@
+{
+  "name": "Seated Knee Tuck",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit on the floor leaning back on your hands with legs out.",
+    "Pull your knees towards your chest.",
+    "Extend your legs out again without touching the floor."
+  ],
+  "category": "strength"
+}

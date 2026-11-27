@@ -1,0 +1,20 @@
+{
+  "name": "Hook and Uppercut Combo",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "biceps"
+  ],
+  "instructions": [
+    "Throw a hook, then an uppercut.",
+    "Return to guard.",
+    "Repeat."
+  ],
+  "category": "cardio"
+}

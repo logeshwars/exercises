@@ -1,0 +1,20 @@
+{
+  "name": "Dragon Flag",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "lower back"
+  ],
+  "instructions": [
+    "Lie on a bench and grip it behind your head.",
+    "Lift your body so only your upper back touches the bench, legs straight.",
+    "Lower your straight body slowly until it nearly touches the bench, then lift again."
+  ],
+  "category": "strength"
+}

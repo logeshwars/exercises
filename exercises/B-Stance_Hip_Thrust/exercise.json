@@ -1,0 +1,19 @@
+{
+  "name": "B-Stance Hip Thrust",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Put most of your weight on one foot during a hip thrust.",
+    "Thrust up.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

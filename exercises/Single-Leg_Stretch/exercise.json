@@ -1,0 +1,17 @@
+{
+  "name": "Single-Leg Stretch",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie with your head lifted and one knee to your chest.",
+    "Switch legs, extending the other.",
+    "Keep alternating."
+  ],
+  "category": "strength"
+}

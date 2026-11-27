@@ -1,0 +1,20 @@
+{
+  "name": "Bear Crawl",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Start on hands and feet with knees hovering just off the floor.",
+    "Crawl forward, moving opposite hand and foot together.",
+    "Keep your back flat and hips low."
+  ],
+  "category": "cardio"
+}

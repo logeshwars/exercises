@@ -1,0 +1,20 @@
+{
+  "name": "Tuck Planche",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "instructions": [
+    "Place your hands on the floor or parallettes.",
+    "Lift your tucked body off the floor.",
+    "Hold."
+  ],
+  "category": "strength"
+}

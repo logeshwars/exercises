@@ -1,0 +1,20 @@
+{
+  "name": "Sandbag Zercher Carry",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Hold the sandbag in the crook of your elbows.",
+    "Walk.",
+    "Keep your torso upright."
+  ],
+  "category": "strongman"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Smith Machine Split Squat Front Foot Elevated",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Put your front foot on a plate.",
+    "Lower into a split squat.",
+    "Push up."
+  ],
+  "category": "strength"
+}

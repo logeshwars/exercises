@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Pinwheel Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a dumbbell.",
+    "Curl it across your body.",
+    "Lower."
+  ],
+  "category": "strength"
+}

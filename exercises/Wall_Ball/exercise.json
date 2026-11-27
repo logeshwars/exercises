@@ -1,0 +1,20 @@
+{
+  "name": "Wall Ball",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes"
+  ],
+  "instructions": [
+    "Hold a medicine ball and squat.",
+    "Stand up and throw the ball to a target on the wall.",
+    "Catch it and go straight into the next squat."
+  ],
+  "category": "cardio"
+}

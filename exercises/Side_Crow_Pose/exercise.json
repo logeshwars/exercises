@@ -1,0 +1,20 @@
+{
+  "name": "Side Crow Pose",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Squat and twist, placing both hands to one side.",
+    "Rest your hip on your upper arm and lean.",
+    "Lift your feet and hold."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Sandbag Bear Hug Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hug the sandbag to your chest.",
+    "Squat down.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

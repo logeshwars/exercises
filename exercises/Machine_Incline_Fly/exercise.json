@@ -1,0 +1,19 @@
+{
+  "name": "Machine Incline Fly",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Sit in the machine.",
+    "Bring the handles together.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

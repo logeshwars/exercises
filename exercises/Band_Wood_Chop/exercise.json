@@ -1,0 +1,19 @@
+{
+  "name": "Band Wood Chop",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Anchor a band high and stand side-on.",
+    "Pull it diagonally across your body to the opposite hip, rotating your torso.",
+    "Return slowly."
+  ],
+  "category": "strength"
+}

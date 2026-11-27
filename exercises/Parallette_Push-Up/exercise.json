@@ -1,0 +1,20 @@
+{
+  "name": "Parallette Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold parallettes.",
+    "Lower your chest below your hands.",
+    "Press up."
+  ],
+  "category": "strength"
+}

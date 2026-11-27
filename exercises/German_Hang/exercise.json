@@ -1,0 +1,17 @@
+{
+  "name": "German Hang",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": [
+    "Rotate back from a hang until your shoulders stretch.",
+    "Hold.",
+    "Return carefully."
+  ],
+  "category": "stretching"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Medicine Ball Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place one hand on the ball.",
+    "Do a push-up.",
+    "Switch hands."
+  ],
+  "category": "strength"
+}

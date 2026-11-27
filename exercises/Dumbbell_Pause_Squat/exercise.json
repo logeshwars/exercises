@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Pause Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Hold dumbbells and squat.",
+    "Pause at the bottom for 2 seconds.",
+    "Stand up."
+  ],
+  "category": "strength"
+}

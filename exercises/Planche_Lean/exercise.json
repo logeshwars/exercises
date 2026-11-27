@@ -1,0 +1,20 @@
+{
+  "name": "Planche Lean",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "chest"
+  ],
+  "instructions": [
+    "Hold a push-up with your hands turned out.",
+    "Lean your shoulders forward past your hands.",
+    "Hold."
+  ],
+  "category": "strength"
+}

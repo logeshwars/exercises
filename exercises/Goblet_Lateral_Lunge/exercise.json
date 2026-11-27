@@ -1,0 +1,20 @@
+{
+  "name": "Goblet Lateral Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes"
+  ],
+  "instructions": [
+    "Hold a dumbbell at your chest.",
+    "Step wide to one side.",
+    "Return."
+  ],
+  "category": "strength"
+}

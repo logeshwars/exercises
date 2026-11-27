@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Rolling Triceps Extension",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": [
+    "Lie holding dumbbells.",
+    "Lower them beside your head, then roll them back over your chest and press up.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tuck Front Lever",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Hang from a bar.",
+    "Pull your tucked body up level, arms straight.",
+    "Hold."
+  ],
+  "category": "strength"
+}

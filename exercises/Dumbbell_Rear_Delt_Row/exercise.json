@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Rear Delt Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Hinge forward holding dumbbells.",
+    "Row them with elbows out.",
+    "Lower."
+  ],
+  "category": "strength"
+}

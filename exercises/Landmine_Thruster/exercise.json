@@ -1,0 +1,20 @@
+{
+  "name": "Landmine Thruster",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "triceps"
+  ],
+  "instructions": [
+    "Hold the bar at your chest.",
+    "Squat, then press up and forward.",
+    "Lower."
+  ],
+  "category": "strength"
+}

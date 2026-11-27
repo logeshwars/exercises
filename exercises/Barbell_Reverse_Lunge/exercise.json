@@ -1,0 +1,20 @@
+{
+  "name": "Barbell Reverse Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Place the bar on your back.",
+    "Step back into a lunge.",
+    "Push back to standing."
+  ],
+  "category": "strength"
+}

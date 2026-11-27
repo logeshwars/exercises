@@ -1,0 +1,21 @@
+{
+  "name": "Jumping Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Start in a lunge with one foot forward.",
+    "Jump up and switch legs in the air.",
+    "Land softly in a lunge on the other side."
+  ],
+  "category": "plyometrics"
+}

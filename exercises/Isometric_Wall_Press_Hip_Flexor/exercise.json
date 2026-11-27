@@ -1,0 +1,19 @@
+{
+  "name": "Isometric Wall Press Hip Flexor",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Lie with one foot against a wall.",
+    "Press your knee up into your hand.",
+    "Hold."
+  ],
+  "category": "strength"
+}

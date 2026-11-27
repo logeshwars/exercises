@@ -1,0 +1,17 @@
+{
+  "name": "Inner Thigh Lift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your side with your top leg bent in front.",
+    "Lift your bottom leg.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

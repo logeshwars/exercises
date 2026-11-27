@@ -1,0 +1,19 @@
+{
+  "name": "Side-Lying Leg Lift",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your side with legs straight.",
+    "Lift your top leg.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Single-Leg Seated Leg Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit in the leg curl machine.",
+    "Curl with one leg.",
+    "Return slowly and switch legs."
+  ],
+  "category": "strength"
+}

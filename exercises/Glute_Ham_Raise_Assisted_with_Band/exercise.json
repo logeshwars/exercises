@@ -1,0 +1,19 @@
+{
+  "name": "Glute Ham Raise Assisted with Band",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Use a band for assistance on the GHR.",
+    "Lower and raise your body.",
+    "Repeat."
+  ],
+  "category": "strength"
+}

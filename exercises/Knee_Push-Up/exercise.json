@@ -1,0 +1,20 @@
+{
+  "name": "Knee Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Kneel and place your hands slightly wider than your shoulders, body straight from knees to head.",
+    "Lower your chest to just above the floor, keeping your elbows at about 45 degrees.",
+    "Press back up to straight arms without letting your hips sag."
+  ],
+  "category": "strength"
+}

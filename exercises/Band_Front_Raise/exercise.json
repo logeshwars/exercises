@@ -1,0 +1,17 @@
+{
+  "name": "Band Front Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand on a band and hold the ends at your thighs.",
+    "Raise your straight arms forward to shoulder height.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

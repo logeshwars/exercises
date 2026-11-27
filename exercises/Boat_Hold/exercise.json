@@ -1,0 +1,19 @@
+{
+  "name": "Boat Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Sit and lean back with knees bent, then lift your feet.",
+    "Straighten your legs if you can, making a V shape.",
+    "Hold with a straight back."
+  ],
+  "category": "strength"
+}

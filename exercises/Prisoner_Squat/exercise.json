@@ -1,0 +1,20 @@
+{
+  "name": "Prisoner Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand with your hands behind your head and elbows back.",
+    "Squat down until your thighs are about parallel to the floor.",
+    "Stand back up, keeping your chest up."
+  ],
+  "category": "strength"
+}

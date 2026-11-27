@@ -1,0 +1,20 @@
+{
+  "name": "Backpack Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Load a backpack with books and hold it by the top handle or straps.",
+    "Hinge forward at the hips with a flat back.",
+    "Pull the bag to your lower ribs, then lower slowly."
+  ],
+  "category": "strength"
+}

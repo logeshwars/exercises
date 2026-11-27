@@ -1,0 +1,19 @@
+{
+  "name": "Pilates Teaser",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "From lying, lift your legs and torso into a V.",
+    "Reach your arms forward.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Single-Arm Lat Pulldown Machine",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps"
+  ],
+  "instructions": [
+    "Sit in the machine.",
+    "Pull down with one arm.",
+    "Return and switch."
+  ],
+  "category": "strength"
+}

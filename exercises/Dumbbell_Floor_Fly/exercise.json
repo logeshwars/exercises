@@ -1,0 +1,19 @@
+{
+  "name": "Dumbbell Floor Fly",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on the floor with dumbbells above your chest, palms facing each other.",
+    "Open your arms wide with a slight bend in the elbows until your upper arms touch the floor.",
+    "Bring the dumbbells back together over your chest."
+  ],
+  "category": "strength"
+}

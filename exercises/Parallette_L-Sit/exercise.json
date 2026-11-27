@@ -1,0 +1,19 @@
+{
+  "name": "Parallette L-Sit",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Support yourself on parallettes.",
+    "Lift your legs straight out.",
+    "Hold."
+  ],
+  "category": "strength"
+}

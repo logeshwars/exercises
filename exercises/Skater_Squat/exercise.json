@@ -1,0 +1,20 @@
+{
+  "name": "Skater Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand on one leg with the other knee bent behind you.",
+    "Lower until the back knee nearly touches the floor, reaching your arms forward for balance.",
+    "Stand back up."
+  ],
+  "category": "strength"
+}

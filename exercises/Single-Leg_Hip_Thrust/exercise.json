@@ -1,0 +1,19 @@
+{
+  "name": "Single-Leg Hip Thrust",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Rest your upper back on a bench with one foot on the floor and the other leg raised.",
+    "Drive through the planted heel to lift your hips.",
+    "Lower slowly and switch sides after the set."
+  ],
+  "category": "strength"
+}

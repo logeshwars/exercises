@@ -1,0 +1,18 @@
+{
+  "name": "Eagle Pose",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abductors"
+  ],
+  "instructions": [
+    "Bend your knees and cross one leg over the other.",
+    "Wrap your arms the same way.",
+    "Hold, then switch sides."
+  ],
+  "category": "stretching"
+}

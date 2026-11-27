@@ -1,0 +1,19 @@
+{
+  "name": "Heel Slide",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Lie on your back.",
+    "Slide your heel towards your hip.",
+    "Slide back out."
+  ],
+  "category": "strength"
+}

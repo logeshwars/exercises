@@ -1,0 +1,20 @@
+{
+  "name": "Deficit Reverse Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand on a plate or low step.",
+    "Step back into a deep lunge.",
+    "Return to standing."
+  ],
+  "category": "strength"
+}

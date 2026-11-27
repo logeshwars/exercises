@@ -1,0 +1,20 @@
+{
+  "name": "Wall Handstand Hold",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Kick up or walk up into a handstand with your back or chest against a wall.",
+    "Keep your arms locked, ribs tucked and body straight.",
+    "Hold for the set time, then come down carefully."
+  ],
+  "category": "strength"
+}

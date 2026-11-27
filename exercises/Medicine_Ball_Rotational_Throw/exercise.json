@@ -1,0 +1,20 @@
+{
+  "name": "Medicine Ball Rotational Throw",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes"
+  ],
+  "instructions": [
+    "Stand side-on to a wall holding a medicine ball.",
+    "Rotate and throw it against the wall.",
+    "Catch and repeat."
+  ],
+  "category": "plyometrics"
+}

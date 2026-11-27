@@ -1,0 +1,20 @@
+{
+  "name": "Ring Support Hold",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Press up on the rings.",
+    "Lock your arms and turn your rings slightly out.",
+    "Hold."
+  ],
+  "category": "strength"
+}

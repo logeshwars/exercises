@@ -1,0 +1,21 @@
+{
+  "name": "Pistol Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand on one leg with the other leg straight out in front.",
+    "Squat down on the standing leg as low as you can control.",
+    "Stand back up without letting the raised foot touch the floor."
+  ],
+  "category": "strength"
+}

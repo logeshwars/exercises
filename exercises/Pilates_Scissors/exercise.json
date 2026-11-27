@@ -1,0 +1,19 @@
+{
+  "name": "Pilates Scissors",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "Lift your hips and legs.",
+    "Scissor your legs apart.",
+    "Switch."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Towel Bicep Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Sit or stand with a towel looped under one foot, holding both ends.",
+    "Curl the towel up while pressing down with your foot for resistance.",
+    "Lower slowly and repeat."
+  ],
+  "category": "strength"
+}

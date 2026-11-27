@@ -1,0 +1,20 @@
+{
+  "name": "Landmine Meadows Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "biceps"
+  ],
+  "instructions": [
+    "Stand side-on with a staggered stance.",
+    "Row the bar end up.",
+    "Lower."
+  ],
+  "category": "strength"
+}

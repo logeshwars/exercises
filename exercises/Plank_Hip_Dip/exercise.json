@@ -1,0 +1,19 @@
+{
+  "name": "Plank Hip Dip",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Start in a forearm plank.",
+    "Rotate your hips to dip one side towards the floor.",
+    "Return through the middle and dip to the other side."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tuck L-Sit",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "triceps"
+  ],
+  "instructions": [
+    "Place your hands beside your hips on the floor or parallettes.",
+    "Press down and lift your hips with knees tucked to your chest.",
+    "Hold."
+  ],
+  "category": "strength"
+}

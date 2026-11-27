@@ -1,0 +1,19 @@
+{
+  "name": "Advanced Tuck Front Lever",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "From a tuck front lever, extend your hips with a flat back.",
+    "Hold.",
+    "Lower with control."
+  ],
+  "category": "strength"
+}

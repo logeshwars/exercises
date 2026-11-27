@@ -1,0 +1,20 @@
+{
+  "name": "Toes to Bar",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "forearms"
+  ],
+  "instructions": [
+    "Hang from a pull-up bar.",
+    "Lift your legs until your toes touch the bar.",
+    "Lower slowly."
+  ],
+  "category": "strength"
+}

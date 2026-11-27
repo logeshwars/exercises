@@ -1,0 +1,19 @@
+{
+  "name": "TRX Side Plank",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "abductors"
+  ],
+  "instructions": [
+    "Feet in the straps.",
+    "Hold a side plank.",
+    "Switch sides."
+  ],
+  "category": "strength"
+}

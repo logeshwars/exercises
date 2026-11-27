@@ -1,0 +1,17 @@
+{
+  "name": "Pigeon Pose",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings"
+  ],
+  "instructions": [
+    "From hands and knees, bring one knee forward and lay that shin across the mat.",
+    "Slide the other leg straight back.",
+    "Lower your hips and hold, then switch sides."
+  ],
+  "category": "stretching"
+}

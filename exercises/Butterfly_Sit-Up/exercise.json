@@ -1,0 +1,19 @@
+{
+  "name": "Butterfly Sit-Up",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "adductors"
+  ],
+  "instructions": [
+    "Lie back with the soles of your feet together and knees out.",
+    "Sit all the way up, reaching towards your feet.",
+    "Lower back down with control."
+  ],
+  "category": "strength"
+}

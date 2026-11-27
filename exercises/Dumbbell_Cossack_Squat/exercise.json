@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Cossack Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes"
+  ],
+  "instructions": [
+    "Stand wide holding a dumbbell at your chest.",
+    "Shift into one hip and squat deep while the other leg stays straight with toes up.",
+    "Push back to the middle and switch sides."
+  ],
+  "category": "strength"
+}

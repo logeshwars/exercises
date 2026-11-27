@@ -1,0 +1,19 @@
+{
+  "name": "Medicine Ball Woodchop",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Hold the ball high to one side.",
+    "Chop it down across your body.",
+    "Return."
+  ],
+  "category": "strength"
+}

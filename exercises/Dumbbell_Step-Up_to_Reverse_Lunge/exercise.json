@@ -1,0 +1,20 @@
+{
+  "name": "Dumbbell Step-Up to Reverse Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold dumbbells and stand in front of a box.",
+    "Step up onto the box, step down, then step the same leg back into a reverse lunge.",
+    "Return to standing and repeat."
+  ],
+  "category": "strength"
+}

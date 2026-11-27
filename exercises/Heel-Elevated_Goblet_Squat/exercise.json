@@ -1,0 +1,19 @@
+{
+  "name": "Heel-Elevated Goblet Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Place your heels on a plate and hold a dumbbell at your chest.",
+    "Squat down.",
+    "Stand back up."
+  ],
+  "category": "strength"
+}

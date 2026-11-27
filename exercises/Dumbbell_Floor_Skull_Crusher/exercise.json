@@ -1,0 +1,17 @@
+{
+  "name": "Dumbbell Floor Skull Crusher",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on the floor holding dumbbells above your chest, palms facing in.",
+    "Bend your elbows to lower the dumbbells beside your head.",
+    "Straighten your arms back up."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "TRX Hamstring Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Put your heels in the straps.",
+    "Bridge up and curl your heels in.",
+    "Extend."
+  ],
+  "category": "strength"
+}

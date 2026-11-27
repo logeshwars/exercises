@@ -1,0 +1,17 @@
+{
+  "name": "Hollow Body Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your back with arms overhead.",
+    "Press your lower back into the floor and lift your arms, shoulders and legs off the floor.",
+    "Hold the curved shape for the set time."
+  ],
+  "category": "strength"
+}

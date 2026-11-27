@@ -1,0 +1,19 @@
+{
+  "name": "Seated Punches",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Sit tall.",
+    "Punch alternately in front of you.",
+    "Keep a steady pace."
+  ],
+  "category": "cardio"
+}

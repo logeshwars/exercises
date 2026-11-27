@@ -1,0 +1,19 @@
+{
+  "name": "Band Serratus Punch",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Anchor a band behind you.",
+    "Punch forward and reach a little further.",
+    "Return."
+  ],
+  "category": "strength"
+}

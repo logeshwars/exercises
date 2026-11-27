@@ -1,0 +1,17 @@
+{
+  "name": "Dumbbell Russian Twist",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sit leaning back with feet raised, holding a dumbbell at your chest.",
+    "Rotate to one side.",
+    "Rotate to the other side."
+  ],
+  "category": "strength"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "TRX T Fly",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back"
+  ],
+  "instructions": [
+    "Hold the straps and lean back.",
+    "Open your arms into a T.",
+    "Return."
+  ],
+  "category": "strength"
+}

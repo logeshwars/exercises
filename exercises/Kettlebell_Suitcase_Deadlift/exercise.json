@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Suitcase Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Place a kettlebell beside one foot.",
+    "Deadlift it without leaning.",
+    "Lower and switch sides."
+  ],
+  "category": "strength"
+}

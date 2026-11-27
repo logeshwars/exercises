@@ -1,0 +1,19 @@
+{
+  "name": "Seated March",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Sit tall.",
+    "Lift your knees alternately.",
+    "Keep a steady rhythm."
+  ],
+  "category": "cardio"
+}

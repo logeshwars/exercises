@@ -1,0 +1,20 @@
+{
+  "name": "Kettlebell Gorilla Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Stand wide over two kettlebells in a hinge.",
+    "Row one while pressing the other into the floor.",
+    "Alternate."
+  ],
+  "category": "strength"
+}

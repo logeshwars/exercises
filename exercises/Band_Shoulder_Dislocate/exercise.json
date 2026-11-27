@@ -1,0 +1,17 @@
+{
+  "name": "Band Shoulder Dislocate",
+  "level": "beginner",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest"
+  ],
+  "instructions": [
+    "Hold a band wide in front of your hips.",
+    "Lift it overhead and behind your back with straight arms.",
+    "Bring it back to the front."
+  ],
+  "category": "stretching"
+}

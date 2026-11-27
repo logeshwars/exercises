@@ -1,0 +1,20 @@
+{
+  "name": "Bird Dog",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "glutes"
+  ],
+  "instructions": [
+    "Start on hands and knees, hands under shoulders and knees under hips.",
+    "Reach one arm forward and the opposite leg back until both are level with your body.",
+    "Hold briefly, return, and switch sides."
+  ],
+  "category": "strength"
+}

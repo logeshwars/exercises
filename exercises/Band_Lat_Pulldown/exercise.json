@@ -1,0 +1,20 @@
+{
+  "name": "Band Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back"
+  ],
+  "instructions": [
+    "Anchor a band above your head and kneel facing it.",
+    "Pull the band down towards your upper chest, driving your elbows down.",
+    "Let your arms rise slowly back to the start."
+  ],
+  "category": "strength"
+}

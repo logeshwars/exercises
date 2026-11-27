@@ -1,0 +1,19 @@
+{
+  "name": "Weighted Hanging Leg Raise",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hang with a light dumbbell between your feet.",
+    "Raise your legs.",
+    "Lower."
+  ],
+  "category": "strength"
+}

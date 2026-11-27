@@ -1,0 +1,19 @@
+{
+  "name": "Pulse Squat",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Squat down to the bottom position.",
+    "Rise only a few centimetres and lower again in small pulses.",
+    "Keep your chest up and weight in your heels for the set."
+  ],
+  "category": "strength"
+}

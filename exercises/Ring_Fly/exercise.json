@@ -1,0 +1,20 @@
+{
+  "name": "Ring Fly",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Hold the rings in a push-up position.",
+    "Open your arms wide.",
+    "Squeeze back in."
+  ],
+  "category": "strength"
+}

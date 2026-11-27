@@ -1,0 +1,20 @@
+{
+  "name": "Single-Arm Band Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "lats"
+  ],
+  "instructions": [
+    "Anchor a band at waist height and hold it in one hand.",
+    "Pull your elbow back past your body, keeping your torso square.",
+    "Return slowly, finish the set, then switch arms."
+  ],
+  "category": "strength"
+}

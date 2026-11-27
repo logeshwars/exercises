@@ -1,0 +1,21 @@
+{
+  "name": "Sled Pull",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "quadriceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Attach a rope to the sled.",
+    "Pull it hand over hand.",
+    "Keep your hips low."
+  ],
+  "category": "strongman"
+}

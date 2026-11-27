@@ -1,0 +1,18 @@
+{
+  "name": "Scorpion Stretch",
+  "level": "intermediate",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "chest"
+  ],
+  "instructions": [
+    "Lie face down with arms out to the sides.",
+    "Bring one foot up and over towards the opposite hand.",
+    "Return and switch sides."
+  ],
+  "category": "stretching"
+}

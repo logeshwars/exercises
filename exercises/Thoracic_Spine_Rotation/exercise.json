@@ -1,0 +1,15 @@
+{
+  "name": "Thoracic Spine Rotation",
+  "level": "beginner",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your side with knees bent and arms stretched out in front.",
+    "Open your top arm up and over to the other side.",
+    "Return and repeat, then switch sides."
+  ],
+  "category": "stretching"
+}

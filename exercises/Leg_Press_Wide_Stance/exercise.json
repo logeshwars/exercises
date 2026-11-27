@@ -1,0 +1,20 @@
+{
+  "name": "Leg Press Wide Stance",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "adductors"
+  ],
+  "instructions": [
+    "Place your feet wide on the platform.",
+    "Lower the sled.",
+    "Press back up."
+  ],
+  "category": "strength"
+}
